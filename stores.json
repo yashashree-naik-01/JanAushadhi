@@ -1,0 +1,26 @@
+[
+    {
+        "id": "Delhi-01",
+        "name": "Jan Aushadhi Kendra, Central Delhi",
+        "address": "12, Connaught Place",
+        "city": "New Delhi",
+        "district": "Central Delhi",
+        "phone": "011-23456789"
+    },
+    {
+        "id": "Mumbai-02",
+        "name": "Jan Aushadhi Store, South Mumbai",
+        "address": "45, Colaba Causeway",
+        "city": "Mumbai",
+        "district": "Mumbai City",
+        "phone": "022-98765432"
+    },
+    {
+        "id": "Bangalore-03",
+        "name": "Pradhan Mantri Bhartiya Janaushadhi Kendra",
+        "address": "78, MG Road",
+        "city": "Bengaluru",
+        "district": "Bangalore Urban",
+        "phone": "080-87654321"
+    }
+]
