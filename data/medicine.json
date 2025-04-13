@@ -1,1 +1,6372 @@
-abcd
+[
+    {
+        "Branded Name": "Dolo 650",
+        "Generic Name": "Paracetamol",
+        "Jan Aushadhi Price": " 5.00",
+        "Branded Price": " 25.00",
+        "Savings (%)": "80%"
+    },
+    {
+        "Branded Name": "Brufen",
+        "Generic Name": "Ibuprofen",
+        "Jan Aushadhi Price": "7.00",
+        "Branded Price": "30.00",
+        "Savings (%)": "76.67%"
+    },
+    {
+        "Branded Name": "Azithral",
+        "Generic Name": "Azithromycin",
+        "Jan Aushadhi Price": "12.00",
+        "Branded Price": "80.00",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Nexpro",
+        "Generic Name": "Esomeprazole",
+        "Jan Aushadhi Price": "10.00",
+        "Branded Price": "55.00",
+        "Savings (%)": "81.82%"
+    },
+    {
+        "Branded Name": "Zinetac",
+        "Generic Name": "Ranitidine",
+        "Jan Aushadhi Price": "4.00",
+        "Branded Price": "22.00",
+        "Savings (%)": "81.82%"
+    },
+    {
+        "Branded Name": "Lipitor",
+        "Generic Name": "Atorvastatin",
+        "Jan Aushadhi Price": "6.00",
+        "Branded Price": "50.00",
+        "Savings (%)": "88%"
+    },
+    {
+        "Branded Name": "Augmentin",
+        "Generic Name": "Amoxicillin + Clavulanic Acid",
+        "Jan Aushadhi Price": "18.00",
+        "Branded Price": "150.00",
+        "Savings (%)": "88%"
+    },
+    {
+        "Branded Name": "Calpol",
+        "Generic Name": "Paracetamol",
+        "Jan Aushadhi Price": "5.00",
+        "Branded Price": "22.00",
+        "Savings (%)": "77.27%"
+    },
+    {
+        "Branded Name": "Pantocid",
+        "Generic Name": "Pantoprazole",
+        "Jan Aushadhi Price": "9.00",
+        "Branded Price": "50.00",
+        "Savings (%)": "82%"
+    },
+    {
+        "Branded Name": "Montair LC",
+        "Generic Name": "Levocetirizine + Montelukast",
+        "Jan Aushadhi Price": "12.00",
+        "Branded Price": "85.00",
+        "Savings (%)": "85.88%"
+    },
+    {
+        "Branded Name": "Metformin",
+        "Generic Name": "Metformin",
+        "Jan Aushadhi Price": "4.00",
+        "Branded Price": "30.00",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Amlodipine",
+        "Generic Name": "Amlodipine",
+        "Jan Aushadhi Price": "3.50",
+        "Branded Price": "18.00",
+        "Savings (%)": "80.56%"
+    },
+    {
+        "Branded Name": "Telma",
+        "Generic Name": "Telmisartan",
+        "Jan Aushadhi Price": "5.50",
+        "Branded Price": "42.00",
+        "Savings (%)": "86.90%"
+    },
+    {
+        "Branded Name": "Ecosprin",
+        "Generic Name": "Aspirin",
+        "Jan Aushadhi Price": "2.00",
+        "Branded Price": "10.00",
+        "Savings (%)": "80%"
+    },
+    {
+        "Branded Name": "Glycomet",
+        "Generic Name": "Metformin",
+        "Jan Aushadhi Price": "4.00",
+        "Branded Price": "25.00",
+        "Savings (%)": "84%"
+    },
+    {
+        "Branded Name": "Cefixime",
+        "Generic Name": "Cefixime",
+        "Jan Aushadhi Price": "14.00",
+        "Branded Price": "95.00",
+        "Savings (%)": "85.26%"
+    },
+    {
+        "Branded Name": "Allegra",
+        "Generic Name": "Fexofenadine",
+        "Jan Aushadhi Price": "6.00",
+        "Branded Price": "40.00",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Cetirizine",
+        "Generic Name": "Cetirizine",
+        "Jan Aushadhi Price": "1.00",
+        "Branded Price": "9.00",
+        "Savings (%)": "88.89%"
+    },
+    {
+        "Branded Name": "Thyronorm",
+        "Generic Name": "Levothyroxine",
+        "Jan Aushadhi Price": "2.00",
+        "Branded Price": "16.00",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Domstal",
+        "Generic Name": "Domperidone",
+        "Jan Aushadhi Price": "2.50",
+        "Branded Price": "20.00",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Betadine",
+        "Generic Name": "Povidone-Iodine",
+        "Jan Aushadhi Price": "12.00",
+        "Branded Price": "60.00",
+        "Savings (%)": "80%"
+    },
+    {
+        "Branded Name": "Zifi",
+        "Generic Name": "Cefixime",
+        "Jan Aushadhi Price": "14.00",
+        "Branded Price": "120.00",
+        "Savings (%)": "88.33%"
+    },
+    {
+        "Branded Name": "Glycomet",
+        "Generic Name": "Metformin Hydrochloride",
+        "Jan Aushadhi Price": "5.00",
+        "Branded Price": "35.00",
+        "Savings (%)": "85.71%"
+    },
+    {
+        "Branded Name": "Olvance",
+        "Generic Name": "Olmesartan Medoxomil",
+        "Jan Aushadhi Price": "8.00",
+        "Branded Price": "50.00",
+        "Savings (%)": "84%"
+    },
+    {
+        "Branded Name": "Clavam",
+        "Generic Name": "Amoxicillin + Clavulanic Acid",
+        "Jan Aushadhi Price": "19.00",
+        "Branded Price": "145.00",
+        "Savings (%)": "86.90%"
+    },
+    {
+        "Branded Name": "Azee",
+        "Generic Name": "Azithromycin",
+        "Jan Aushadhi Price": "11.00",
+        "Branded Price": "95.00",
+        "Savings (%)": "88.42%"
+    },
+    {
+        "Branded Name": "Ciplox",
+        "Generic Name": "Ciprofloxacin",
+        "Jan Aushadhi Price": "7.00",
+        "Branded Price": "48.00",
+        "Savings (%)": "85.42%"
+    },
+    {
+        "Branded Name": "Stamlo",
+        "Generic Name": "Amlodipine",
+        "Jan Aushadhi Price": "3.00",
+        "Branded Price": "18.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Galvus Met",
+        "Generic Name": "Vildagliptin + Metformin",
+        "Jan Aushadhi Price": "20.00",
+        "Branded Price": "135.00",
+        "Savings (%)": "85.19%"
+    },
+    {
+        "Branded Name": "Zyloric",
+        "Generic Name": "Allopurinol",
+        "Jan Aushadhi Price": "6.00",
+        "Branded Price": "30.00",
+        "Savings (%)": "80%"
+    },
+    {
+        "Branded Name": "Volini",
+        "Generic Name": "Diclofenac + Linseed Oil Gel",
+        "Jan Aushadhi Price": "10.00",
+        "Branded Price": "75.00",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Combiflam",
+        "Generic Name": "Ibuprofen + Paracetamol",
+        "Jan Aushadhi Price": "6.00",
+        "Branded Price": "28.00",
+        "Savings (%)": "78.57%"
+    },
+    {
+        "Branded Name": "Cetrizine",
+        "Generic Name": "Cetirizine",
+        "Jan Aushadhi Price": "1.00",
+        "Branded Price": "9.00",
+        "Savings (%)": "88.89%"
+    },
+    {
+        "Branded Name": "T-Bact",
+        "Generic Name": "Mupirocin",
+        "Jan Aushadhi Price": "15.00",
+        "Branded Price": "110.00",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Ondem",
+        "Generic Name": "Ondansetron",
+        "Jan Aushadhi Price": "4.00",
+        "Branded Price": "20.00",
+        "Savings (%)": "80%"
+    },
+    {
+        "Branded Name": "Lasix",
+        "Generic Name": "Furosemide",
+        "Jan Aushadhi Price": "2.50",
+        "Branded Price": "15.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Dytor",
+        "Generic Name": "Torsemide",
+        "Jan Aushadhi Price": "3.00",
+        "Branded Price": "22.00",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Sumo",
+        "Generic Name": "Nimesulide + Paracetamol",
+        "Jan Aushadhi Price": "6.50",
+        "Branded Price": "35.00",
+        "Savings (%)": "81.43%"
+    },
+    {
+        "Branded Name": "Meftal",
+        "Generic Name": "Mefenamic Acid",
+        "Jan Aushadhi Price": "4.00",
+        "Branded Price": "24.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Razo",
+        "Generic Name": "Rabeprazole",
+        "Jan Aushadhi Price": "8.00",
+        "Branded Price": "55.00",
+        "Savings (%)": "85.45%"
+    },
+    {
+        "Branded Name": "Dazit",
+        "Generic Name": "Desloratadine",
+        "Jan Aushadhi Price": "5.00",
+        "Branded Price": "30.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Zocor",
+        "Generic Name": "Simvastatin",
+        "Jan Aushadhi Price": "7.00",
+        "Branded Price": "42.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Dytor Plus",
+        "Generic Name": "Torsemide + Spironolactone",
+        "Jan Aushadhi Price": "6.00",
+        "Branded Price": "40.00",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Depin",
+        "Generic Name": "Nifedipine",
+        "Jan Aushadhi Price": "3.00",
+        "Branded Price": "18.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Ciplar",
+        "Generic Name": "Propranolol",
+        "Jan Aushadhi Price": "4.00",
+        "Branded Price": "20.00",
+        "Savings (%)": "80%"
+    },
+    {
+        "Branded Name": "Minipress",
+        "Generic Name": "Prazosin",
+        "Jan Aushadhi Price": "5.00",
+        "Branded Price": "32.00",
+        "Savings (%)": "84.38%"
+    },
+    {
+        "Branded Name": "Thyrox",
+        "Generic Name": "Levothyroxine",
+        "Jan Aushadhi Price": "2.00",
+        "Branded Price": "18.00",
+        "Savings (%)": "88.89%"
+    },
+    {
+        "Branded Name": "Roxid",
+        "Generic Name": "Roxithromycin",
+        "Jan Aushadhi Price": "6.00",
+        "Branded Price": "36.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Lariago",
+        "Generic Name": "Chloroquine",
+        "Jan Aushadhi Price": "2.50",
+        "Branded Price": "12.00",
+        "Savings (%)": "79.17%"
+    },
+    {
+        "Branded Name": "Avil",
+        "Generic Name": "Pheniramine Maleate",
+        "Jan Aushadhi Price": "1.00",
+        "Branded Price": "9.00",
+        "Savings (%)": "88.89%"
+    },
+    {
+        "Branded Name": "Eldoper",
+        "Generic Name": "Loperamide",
+        "Jan Aushadhi Price": "2.00",
+        "Branded Price": "14.00",
+        "Savings (%)": "85.71%"
+    },
+    {
+        "Branded Name": "T-Minic",
+        "Generic Name": "Chlorpheniramine + Phenylephrine",
+        "Jan Aushadhi Price": "3.00",
+        "Branded Price": "22.00",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Trika",
+        "Generic Name": "Alprazolam",
+        "Jan Aushadhi Price": "4.00",
+        "Branded Price": "25.00",
+        "Savings (%)": "84%"
+    },
+    {
+        "Branded Name": "Eslo",
+        "Generic Name": "S-Amlodipine",
+        "Jan Aushadhi Price": "4.00",
+        "Branded Price": "22.00",
+        "Savings (%)": "81.82%"
+    },
+    {
+        "Branded Name": "Prodep",
+        "Generic Name": "Fluoxetine",
+        "Jan Aushadhi Price": "5.00",
+        "Branded Price": "38.00",
+        "Savings (%)": "86.84%"
+    },
+    {
+        "Branded Name": "Zolfresh",
+        "Generic Name": "Zolpidem",
+        "Jan Aushadhi Price": "6.00",
+        "Branded Price": "45.00",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Voveran",
+        "Generic Name": "Diclofenac Sodium",
+        "Jan Aushadhi Price": "4.00",
+        "Branded Price": "26.00",
+        "Savings (%)": "84.62%"
+    },
+    {
+        "Branded Name": "Clonotril",
+        "Generic Name": "Clonazepam",
+        "Jan Aushadhi Price": "4.00",
+        "Branded Price": "34.00",
+        "Savings (%)": "88.24%"
+    },
+    {
+        "Branded Name": "Telvas",
+        "Generic Name": "Telmisartan",
+        "Jan Aushadhi Price": "5.50",
+        "Branded Price": "38.00",
+        "Savings (%)": "85.53%"
+    },
+    {
+        "Branded Name": "Okacet",
+        "Generic Name": "Cetirizine",
+        "Jan Aushadhi Price": "1.00",
+        "Branded Price": "8.00",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Aztor",
+        "Generic Name": "Atorvastatin",
+        "Jan Aushadhi Price": "6.00",
+        "Branded Price": "48.00",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Dytor 10",
+        "Generic Name": "Torsemide",
+        "Jan Aushadhi Price": "3.00",
+        "Branded Price": "22.00",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Crocin",
+        "Generic Name": "Paracetamol",
+        "Jan Aushadhi Price": "5.00",
+        "Branded Price": "25.00",
+        "Savings (%)": "80%"
+    },
+    {
+        "Branded Name": "Betacap",
+        "Generic Name": "Propranolol",
+        "Jan Aushadhi Price": "4.00",
+        "Branded Price": "21.00",
+        "Savings (%)": "80.95%"
+    },
+    {
+        "Branded Name": "Monticope",
+        "Generic Name": "Levocetirizine + Montelukast",
+        "Jan Aushadhi Price": "12.00",
+        "Branded Price": "85.00",
+        "Savings (%)": "85.88%"
+    },
+    {
+        "Branded Name": "HCQS",
+        "Generic Name": "Hydroxychloroquine",
+        "Jan Aushadhi Price": "10.00",
+        "Branded Price": "80.00",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Citalopam",
+        "Generic Name": "Escitalopram",
+        "Jan Aushadhi Price": "6.00",
+        "Branded Price": "50.00",
+        "Savings (%)": "88%"
+    },
+    {
+        "Branded Name": "Envas",
+        "Generic Name": "Enalapril",
+        "Jan Aushadhi Price": "4.00",
+        "Branded Price": "30.00",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Clopitab",
+        "Generic Name": "Clopidogrel",
+        "Jan Aushadhi Price": "3.00",
+        "Branded Price": "22.00",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Ecosprin AV",
+        "Generic Name": "Aspirin + Atorvastatin",
+        "Jan Aushadhi Price": "7.00",
+        "Branded Price": "52.00",
+        "Savings (%)": "86.54%"
+    },
+    {
+        "Branded Name": "Stemetil",
+        "Generic Name": "Prochlorperazine",
+        "Jan Aushadhi Price": "2.50",
+        "Branded Price": "15.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Eptoin",
+        "Generic Name": "Phenytoin",
+        "Jan Aushadhi Price": "3.00",
+        "Branded Price": "22.00",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Shelcal",
+        "Generic Name": "Calcium + Vitamin D3",
+        "Jan Aushadhi Price": "8.00",
+        "Branded Price": "55.00",
+        "Savings (%)": "85.45%"
+    },
+    {
+        "Branded Name": "Becosules",
+        "Generic Name": "B-complex Vitamins",
+        "Jan Aushadhi Price": "6.00",
+        "Branded Price": "38.00",
+        "Savings (%)": "84.21%"
+    },
+    {
+        "Branded Name": "Liv 52",
+        "Generic Name": "Liver Tonic (Herbal)",
+        "Jan Aushadhi Price": "10.00",
+        "Branded Price": "60.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Duphaston",
+        "Generic Name": "Dydrogesterone",
+        "Jan Aushadhi Price": "20.00",
+        "Branded Price": "140.00",
+        "Savings (%)": "85.71%"
+    },
+    {
+        "Branded Name": "Teneligliptin",
+        "Generic Name": "Teneligliptin Tablets IP 20mg",
+        "Jan Aushadhi Price": "20.00",
+        "Branded Price": "150.00",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Pioglitazone",
+        "Generic Name": "Pioglitazone Tablets IP 15mg",
+        "Jan Aushadhi Price": "8.80",
+        "Branded Price": "60.00",
+        "Savings (%)": "85.33%"
+    },
+    {
+        "Branded Name": "Acarbose",
+        "Generic Name": "Acarbose Tablets IP 25mg",
+        "Jan Aushadhi Price": "40.00",
+        "Branded Price": "200.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Canagliflozin",
+        "Generic Name": "Canagliflozin Tablets 100mg",
+        "Jan Aushadhi Price": "186.00",
+        "Branded Price": "1,200.00",
+        "Savings (%)": "84.50%"
+    },
+    {
+        "Branded Name": "Saxagliptin",
+        "Generic Name": "Saxagliptin Tablets 5mg",
+        "Jan Aushadhi Price": "93.00",
+        "Branded Price": "600.00",
+        "Savings (%)": "84.50%"
+    },
+    {
+        "Branded Name": "Cefpodoxime",
+        "Generic Name": "Cefpodoxime Proxetil 100mg",
+        "Jan Aushadhi Price": "40.00",
+        "Branded Price": "200.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Cefixime",
+        "Generic Name": "Cefixime Oral Suspension 100mg",
+        "Jan Aushadhi Price": "32.00",
+        "Branded Price": "160.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Ceftriaxone",
+        "Generic Name": "Ceftriaxone Injection IP 2g",
+        "Jan Aushadhi Price": "60.00",
+        "Branded Price": "300.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Cephalexin",
+        "Generic Name": "Cephalexin Extended Release 750mg",
+        "Jan Aushadhi Price": "115.00",
+        "Branded Price": "575.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Chloramphenicol",
+        "Generic Name": "Chloramphenicol Capsules IP 500mg",
+        "Jan Aushadhi Price": "65.00",
+        "Branded Price": "325.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Colistin",
+        "Generic Name": "Colistin Injection IP 1M IU",
+        "Jan Aushadhi Price": "180.00",
+        "Branded Price": "900.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Atenolol",
+        "Generic Name": "Atenolol Tablets IP 50mg",
+        "Jan Aushadhi Price": "6.60",
+        "Branded Price": "33.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Clopidogrel",
+        "Generic Name": "Clopidogrel Tablets IP 75mg",
+        "Jan Aushadhi Price": "18.70",
+        "Branded Price": "93.50",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Diltiazem",
+        "Generic Name": "Diltiazem Tablets IP 60mg",
+        "Jan Aushadhi Price": "17.00",
+        "Branded Price": "85.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Enalapril",
+        "Generic Name": "Enalapril Maleate Tablets IP 5mg",
+        "Jan Aushadhi Price": "7.00",
+        "Branded Price": "35.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Irbesartan",
+        "Generic Name": "Irbesartan Tablets 150mg",
+        "Jan Aushadhi Price": "25.00",
+        "Branded Price": "125.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Isosorbide",
+        "Generic Name": "Isosorbide Dinitrate Tablets 10mg",
+        "Jan Aushadhi Price": "4.00",
+        "Branded Price": "20.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Labetalol",
+        "Generic Name": "Labetalol Tablets IP 100mg",
+        "Jan Aushadhi Price": "9.00",
+        "Branded Price": "45.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Losartan",
+        "Generic Name": "Losartan Potassium 50mg",
+        "Jan Aushadhi Price": "6.00",
+        "Branded Price": "30.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Methyldopa",
+        "Generic Name": "Methyldopa Tablets IP 250mg",
+        "Jan Aushadhi Price": "9.00",
+        "Branded Price": "45.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Metoprolol",
+        "Generic Name": "Metoprolol Succinate 50mg",
+        "Jan Aushadhi Price": "8.00",
+        "Branded Price": "40.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Nifedipine",
+        "Generic Name": "Nifedipine Tablets IP 10mg",
+        "Jan Aushadhi Price": "3.00",
+        "Branded Price": "15.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Olmesartan",
+        "Generic Name": "Olmesartan Medoxomil 20mg",
+        "Jan Aushadhi Price": "14.00",
+        "Branded Price": "70.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Propranolol",
+        "Generic Name": "Propranolol Tablets IP 40mg",
+        "Jan Aushadhi Price": "5.00",
+        "Branded Price": "25.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Ramipril",
+        "Generic Name": "Ramipril Tablets IP 5mg",
+        "Jan Aushadhi Price": "7.00",
+        "Branded Price": "35.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Telmisartan",
+        "Generic Name": "Telmisartan Tablets IP 40mg",
+        "Jan Aushadhi Price": "10.00",
+        "Branded Price": "50.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Trimetazidine",
+        "Generic Name": "Trimetazidine Tablets 35mg",
+        "Jan Aushadhi Price": "12.00",
+        "Branded Price": "60.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Verapamil",
+        "Generic Name": "Verapamil Tablets IP 40mg",
+        "Jan Aushadhi Price": "6.00",
+        "Branded Price": "30.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Warfarin",
+        "Generic Name": "Warfarin Tablets IP 5mg",
+        "Jan Aushadhi Price": "5.00",
+        "Branded Price": "25.00",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Azithral",
+        "Generic Name": "Azithromycin 500mg",
+        "Jan Aushadhi Price": "15.00",
+        "Branded Price": "95.00",
+        "Savings (%)": "84.21%"
+    },
+    {
+        "Branded Name": "Claribid",
+        "Generic Name": "Clarithromycin 500mg",
+        "Jan Aushadhi Price": "22.00",
+        "Branded Price": "130.00",
+        "Savings (%)": "83.08%"
+    },
+    {
+        "Branded Name": "Mycobutol",
+        "Generic Name": "Ethambutol Hydrochloride 400mg",
+        "Jan Aushadhi Price": "4.00",
+        "Branded Price": "24.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Rcinex",
+        "Generic Name": "Rifampicin + Isoniazid",
+        "Jan Aushadhi Price": "12.00",
+        "Branded Price": "72.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Linospan",
+        "Generic Name": "Linezolid 600mg",
+        "Jan Aushadhi Price": "65.00",
+        "Branded Price": "400.00",
+        "Savings (%)": "83.75%"
+    },
+    {
+        "Branded Name": "Ciplox",
+        "Generic Name": "Ciprofloxacin 500mg",
+        "Jan Aushadhi Price": "8.00",
+        "Branded Price": "48.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Amoxycilin",
+        "Generic Name": "Amoxicillin 500mg",
+        "Jan Aushadhi Price": "5.00",
+        "Branded Price": "30.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Norflox",
+        "Generic Name": "Norfloxacin 400mg",
+        "Jan Aushadhi Price": "7.00",
+        "Branded Price": "42.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Doxy 1",
+        "Generic Name": "Doxycycline 100mg",
+        "Jan Aushadhi Price": "4.00",
+        "Branded Price": "24.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Zovirax",
+        "Generic Name": "Acyclovir 400mg",
+        "Jan Aushadhi Price": "18.00",
+        "Branded Price": "110.00",
+        "Savings (%)": "83.64%"
+    },
+    {
+        "Branded Name": "Famtrex",
+        "Generic Name": "Famciclovir 250mg",
+        "Jan Aushadhi Price": "48.00",
+        "Branded Price": "285.00",
+        "Savings (%)": "83.16%"
+    },
+    {
+        "Branded Name": "Albendazole",
+        "Generic Name": "Albendazole 400mg",
+        "Jan Aushadhi Price": "6.00",
+        "Branded Price": "35.00",
+        "Savings (%)": "82.86%"
+    },
+    {
+        "Branded Name": "Mebendazole",
+        "Generic Name": "Mebendazole 100mg",
+        "Jan Aushadhi Price": "2.00",
+        "Branded Price": "12.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Ivermectin",
+        "Generic Name": "Ivermectin 12mg",
+        "Jan Aushadhi Price": "7.00",
+        "Branded Price": "42.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Hydroxyurea",
+        "Generic Name": "Hydroxyurea 500mg",
+        "Jan Aushadhi Price": "13.00",
+        "Branded Price": "78.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Cyclophosphamide",
+        "Generic Name": "Cyclophosphamide 50mg",
+        "Jan Aushadhi Price": "15.00",
+        "Branded Price": "90.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Methotrexate",
+        "Generic Name": "Methotrexate 10mg",
+        "Jan Aushadhi Price": "8.00",
+        "Branded Price": "48.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Azathioprine",
+        "Generic Name": "Azathioprine 50mg",
+        "Jan Aushadhi Price": "22.00",
+        "Branded Price": "130.00",
+        "Savings (%)": "83.08%"
+    },
+    {
+        "Branded Name": "Feburic",
+        "Generic Name": "Febuxostat",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "95",
+        "Savings (%)": "87.37%"
+    },
+    {
+        "Branded Name": "Xarelto",
+        "Generic Name": "Rivaroxaban",
+        "Jan Aushadhi Price": "38",
+        "Branded Price": "470",
+        "Savings (%)": "91.91%"
+    },
+    {
+        "Branded Name": "Olmetec",
+        "Generic Name": "Olmesartan",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "110",
+        "Savings (%)": "90.91%"
+    },
+    {
+        "Branded Name": "Lipaglyn",
+        "Generic Name": "Saroglitazar",
+        "Jan Aushadhi Price": "22",
+        "Branded Price": "300",
+        "Savings (%)": "92.67%"
+    },
+    {
+        "Branded Name": "Pan-D",
+        "Generic Name": "Pantoprazole + Domperidone",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "60",
+        "Savings (%)": "90.00%"
+    },
+    {
+        "Branded Name": "Tazloc",
+        "Generic Name": "Telmisartan",
+        "Jan Aushadhi Price": "6.5",
+        "Branded Price": "62",
+        "Savings (%)": "89.52%"
+    },
+    {
+        "Branded Name": "Novastat",
+        "Generic Name": "Rosuvastatin",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "120",
+        "Savings (%)": "91.67%"
+    },
+    {
+        "Branded Name": "Linagliptin",
+        "Generic Name": "Linagliptin",
+        "Jan Aushadhi Price": "18",
+        "Branded Price": "160",
+        "Savings (%)": "88.75%"
+    },
+    {
+        "Branded Name": "Dytor",
+        "Generic Name": "Torasemide",
+        "Jan Aushadhi Price": "4",
+        "Branded Price": "38",
+        "Savings (%)": "89.47%"
+    },
+    {
+        "Branded Name": "Nicardia Retard",
+        "Generic Name": "Nifedipine",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "46",
+        "Savings (%)": "89.13%"
+    },
+    {
+        "Branded Name": "Azeflo",
+        "Generic Name": "Fluticasone + Azelastine Nasal Spray",
+        "Jan Aushadhi Price": "25",
+        "Branded Price": "310",
+        "Savings (%)": "91.94%"
+    },
+    {
+        "Branded Name": "Udiliv",
+        "Generic Name": "Ursodeoxycholic Acid",
+        "Jan Aushadhi Price": "19",
+        "Branded Price": "210",
+        "Savings (%)": "90.48%"
+    },
+    {
+        "Branded Name": "Myoril",
+        "Generic Name": "Thiocolchicoside",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "140",
+        "Savings (%)": "91.43%"
+    },
+    {
+        "Branded Name": "Aciloc",
+        "Generic Name": "Ranitidine",
+        "Jan Aushadhi Price": "4",
+        "Branded Price": "22",
+        "Savings (%)": "81.82%"
+    },
+    {
+        "Branded Name": "Actrapid",
+        "Generic Name": "Insulin Human",
+        "Jan Aushadhi Price": "70",
+        "Branded Price": "150",
+        "Savings (%)": "53.33%"
+    },
+    {
+        "Branded Name": "Admenta",
+        "Generic Name": "Memantine Hydrochloride",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "65",
+        "Savings (%)": "87.69%"
+    },
+    {
+        "Branded Name": "Adrenaline",
+        "Generic Name": "Adrenaline",
+        "Jan Aushadhi Price": "2",
+        "Branded Price": "15",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Airfast",
+        "Generic Name": "Montelukast",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "40",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Alburel",
+        "Generic Name": "Human Albumin",
+        "Jan Aushadhi Price": "300",
+        "Branded Price": "1500",
+        "Savings (%)": "80%"
+    },
+    {
+        "Branded Name": "Alfoo",
+        "Generic Name": "Alfuzosin Hydrochloride",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "90",
+        "Savings (%)": "88.89%"
+    },
+    {
+        "Branded Name": "Amaryl",
+        "Generic Name": "Glimepiride",
+        "Jan Aushadhi Price": "4",
+        "Branded Price": "30",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Amikacin",
+        "Generic Name": "Amikacin Sulphate",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "80",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Amiodarone",
+        "Generic Name": "Amiodarone Hydrochloride",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "45",
+        "Savings (%)": "88.89%"
+    },
+    {
+        "Branded Name": "Amitriptyline",
+        "Generic Name": "Amitriptyline Hydrochloride",
+        "Jan Aushadhi Price": "3",
+        "Branded Price": "25",
+        "Savings (%)": "88%"
+    },
+    {
+        "Branded Name": "Amlopres",
+        "Generic Name": "Amlodipine",
+        "Jan Aushadhi Price": "3.5",
+        "Branded Price": "18",
+        "Savings (%)": "80.56%"
+    },
+    {
+        "Branded Name": "Amoxil",
+        "Generic Name": "Amoxicillin",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "30",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Anafortan",
+        "Generic Name": "Camylofin Dihydrochloride",
+        "Jan Aushadhi Price": "4",
+        "Branded Price": "28",
+        "Savings (%)": "85.71%"
+    },
+    {
+        "Branded Name": "Anastrozole",
+        "Generic Name": "Anastrozole",
+        "Jan Aushadhi Price": "20",
+        "Branded Price": "150",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Antacid",
+        "Generic Name": "Aluminium Hydroxide + Magnesium",
+        "Jan Aushadhi Price": "2",
+        "Branded Price": "15",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Aricept",
+        "Generic Name": "Donepezil Hydrochloride",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "80",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Arimidex",
+        "Generic Name": "Anastrozole",
+        "Jan Aushadhi Price": "20",
+        "Branded Price": "150",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Ascoril",
+        "Generic Name": "Bromhexine + Guaifenesin + Terbutaline",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "35",
+        "Savings (%)": "82.86%"
+    },
+    {
+        "Branded Name": "Aten",
+        "Generic Name": "Atenolol",
+        "Jan Aushadhi Price": "3",
+        "Branded Price": "20",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Ativan",
+        "Generic Name": "Lorazepam",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "40",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Atorva",
+        "Generic Name": "Atorvastatin",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "48",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Augpen",
+        "Generic Name": "Amoxicillin + Clavulanic Acid",
+        "Jan Aushadhi Price": "18",
+        "Branded Price": "150",
+        "Savings (%)": "88%"
+    },
+    {
+        "Branded Name": "Azoran",
+        "Generic Name": "Azathioprine",
+        "Jan Aushadhi Price": "22",
+        "Branded Price": "130",
+        "Savings (%)": "83.08%"
+    },
+    {
+        "Branded Name": "Betaloc",
+        "Generic Name": "Metoprolol",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "40",
+        "Savings (%)": "80%"
+    },
+    {
+        "Branded Name": "Betnesol",
+        "Generic Name": "Betamethasone",
+        "Jan Aushadhi Price": "2",
+        "Branded Price": "15",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Biotin",
+        "Generic Name": "Biotin",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "35",
+        "Savings (%)": "85.71%"
+    },
+    {
+        "Branded Name": "Calcirol",
+        "Generic Name": "Cholecalciferol",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "60",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Cardace",
+        "Generic Name": "Ramipril",
+        "Jan Aushadhi Price": "7",
+        "Branded Price": "35",
+        "Savings (%)": "80%"
+    },
+    {
+        "Branded Name": "Clotrimazole",
+        "Generic Name": "Clotrimazole",
+        "Jan Aushadhi Price": "3",
+        "Branded Price": "20",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Concor",
+        "Generic Name": "Bisoprolol Fumarate",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "35",
+        "Savings (%)": "85.71%"
+    },
+    {
+        "Branded Name": "Dexona",
+        "Generic Name": "Dexamethasone",
+        "Jan Aushadhi Price": "2",
+        "Branded Price": "15",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Dicyclomine",
+        "Generic Name": "Dicyclomine Hydrochloride",
+        "Jan Aushadhi Price": "3",
+        "Branded Price": "20",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Digene",
+        "Generic Name": "Magnesium Hydroxide + Aluminium Hydroxide",
+        "Jan Aushadhi Price": "2",
+        "Branded Price": "15",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Parafon",
+        "Generic Name": "Paracetamol + Chlorzoxazone",
+        "Jan Aushadhi Price": "8.00",
+        "Branded Price": "45.00",
+        "Savings (%)": "82.22%"
+    },
+    {
+        "Branded Name": "Sporidex",
+        "Generic Name": "Cephalexin",
+        "Jan Aushadhi Price": "12.00",
+        "Branded Price": "80.00",
+        "Savings (%)": "85.00%"
+    },
+    {
+        "Branded Name": "Zerodol",
+        "Generic Name": "Aceclofenac + Paracetamol",
+        "Jan Aushadhi Price": "10.00",
+        "Branded Price": "65.00",
+        "Savings (%)": "84.62%"
+    },
+    {
+        "Branded Name": "Revital",
+        "Generic Name": "Multivitamin + Minerals",
+        "Jan Aushadhi Price": "15.00",
+        "Branded Price": "100.00",
+        "Savings (%)": "85.00%"
+    },
+    {
+        "Branded Name": "Limcee",
+        "Generic Name": "Vitamin C (Ascorbic Acid)",
+        "Jan Aushadhi Price": "3.00",
+        "Branded Price": "20.00",
+        "Savings (%)": "85.00%"
+    },
+    {
+        "Branded Name": "Becosule-Z",
+        "Generic Name": "Vitamin B-Complex + Zinc",
+        "Jan Aushadhi Price": "8.00",
+        "Branded Price": "50.00",
+        "Savings (%)": "84.00%"
+    },
+    {
+        "Branded Name": "Neurobion Forte",
+        "Generic Name": "Methylcobalamin + B-Complex",
+        "Jan Aushadhi Price": "12.00",
+        "Branded Price": "90.00",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Soframycin",
+        "Generic Name": "Framycetin (Topical Cream)",
+        "Jan Aushadhi Price": "10.00",
+        "Branded Price": "70.00",
+        "Savings (%)": "85.71%"
+    },
+    {
+        "Branded Name": "Omez-D",
+        "Generic Name": "Omeprazole + Domperidone",
+        "Jan Aushadhi Price": "9.00",
+        "Branded Price": "60.00",
+        "Savings (%)": "85.00%"
+    },
+    {
+        "Branded Name": "Phensedyl",
+        "Generic Name": "Codeine + Promethazine",
+        "Jan Aushadhi Price": "25.00",
+        "Branded Price": "150.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Lomotil",
+        "Generic Name": "Diphenoxylate + Atropine",
+        "Jan Aushadhi Price": "6.00",
+        "Branded Price": "40.00",
+        "Savings (%)": "85.00%"
+    },
+    {
+        "Branded Name": "Cremaffin",
+        "Generic Name": "Liquid Paraffin + Milk of Magnesia",
+        "Jan Aushadhi Price": "12.00",
+        "Branded Price": "80.00",
+        "Savings (%)": "85.00%"
+    },
+    {
+        "Branded Name": "Gelusil",
+        "Generic Name": "Aluminium Hydroxide + Simethicone",
+        "Jan Aushadhi Price": "5.00",
+        "Branded Price": "30.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Lantus",
+        "Generic Name": "Insulin Glargine (100 IU/mL)",
+        "Jan Aushadhi Price": "250.00",
+        "Branded Price": "1,800.00",
+        "Savings (%)": "86.11%"
+    },
+    {
+        "Branded Name": "Huminsulin",
+        "Generic Name": "Human Insulin (Regular)",
+        "Jan Aushadhi Price": "120.00",
+        "Branded Price": "500.00",
+        "Savings (%)": "76.00%"
+    },
+    {
+        "Branded Name": "Mucaine",
+        "Generic Name": "Oxetacaine + Antacids",
+        "Jan Aushadhi Price": "8.00",
+        "Branded Price": "50.00",
+        "Savings (%)": "84.00%"
+    },
+    {
+        "Branded Name": "Zerodol-SP",
+        "Generic Name": "Aceclofenac + Paracetamol + Serratiopeptidase",
+        "Jan Aushadhi Price": "12.00",
+        "Branded Price": "85.00",
+        "Savings (%)": "85.88%"
+    },
+    {
+        "Branded Name": "Shelcal HD",
+        "Generic Name": "Calcium + Vitamin D3 + Zinc",
+        "Jan Aushadhi Price": "10.00",
+        "Branded Price": "75.00",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Lantus SoloStar",
+        "Generic Name": "Insulin Glargine (Pen)",
+        "Jan Aushadhi Price": "300.00",
+        "Branded Price": "2,200.00",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "NovoRapid",
+        "Generic Name": "Insulin Aspart",
+        "Jan Aushadhi Price": "200.00",
+        "Branded Price": "1,500.00",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Galvus",
+        "Generic Name": "Vildagliptin",
+        "Jan Aushadhi Price": "15.00",
+        "Branded Price": "120.00",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Januvia",
+        "Generic Name": "Sitagliptin",
+        "Jan Aushadhi Price": "20.00",
+        "Branded Price": "160.00",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Foracort",
+        "Generic Name": "Formoterol + Budesonide",
+        "Jan Aushadhi Price": "50.00",
+        "Branded Price": "350.00",
+        "Savings (%)": "85.71%"
+    },
+    {
+        "Branded Name": "Deriphyllin",
+        "Generic Name": "Etofylline + Theophylline",
+        "Jan Aushadhi Price": "5.00",
+        "Branded Price": "30.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Aristozyme",
+        "Generic Name": "Pancreatin + Dimethicone",
+        "Jan Aushadhi Price": "10.00",
+        "Branded Price": "70.00",
+        "Savings (%)": "85.71%"
+    },
+    {
+        "Branded Name": "Polybion",
+        "Generic Name": "Multivitamin + B-Complex",
+        "Jan Aushadhi Price": "6.00",
+        "Branded Price": "40.00",
+        "Savings (%)": "85.00%"
+    },
+    {
+        "Branded Name": "Orpenem",
+        "Generic Name": "Meropenem",
+        "Jan Aushadhi Price": "150.00",
+        "Branded Price": "1,000.00",
+        "Savings (%)": "85.00%"
+    },
+    {
+        "Branded Name": "Taxim",
+        "Generic Name": "Cefotaxime",
+        "Jan Aushadhi Price": "25.00",
+        "Branded Price": "150.00",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Monocef",
+        "Generic Name": "Cefixime Oral Suspension",
+        "Jan Aushadhi Price": "35.00",
+        "Branded Price": "200.00",
+        "Savings (%)": "82.50%"
+    },
+    {
+        "Branded Name": "Erythromycin",
+        "Generic Name": "Erythromycin Estolate",
+        "Jan Aushadhi Price": "10.00",
+        "Branded Price": "70.00",
+        "Savings (%)": "85.71%"
+    },
+    {
+        "Branded Name": "Aceclofenac + Paracetamol",
+        "Generic Name": "Zerodol-P",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "65",
+        "Savings (%)": "84.60%"
+    },
+    {
+        "Branded Name": "Ambroxol + Guaifenesin",
+        "Generic Name": "Ascoril Plus",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "55",
+        "Savings (%)": "85.50%"
+    },
+    {
+        "Branded Name": "Artemether + Lumefantrine",
+        "Generic Name": "Lonart DS",
+        "Jan Aushadhi Price": "25",
+        "Branded Price": "120",
+        "Savings (%)": "79.20%"
+    },
+    {
+        "Branded Name": "Atorvastatin + Aspirin",
+        "Generic Name": "Ecosprin AV",
+        "Jan Aushadhi Price": "7",
+        "Branded Price": "52",
+        "Savings (%)": "86.50%"
+    },
+    {
+        "Branded Name": "Benzyl Benzoate Lotion",
+        "Generic Name": "Scaboma",
+        "Jan Aushadhi Price": "15",
+        "Branded Price": "90",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Budesonide Inhaler",
+        "Generic Name": "Budecort",
+        "Jan Aushadhi Price": "50",
+        "Branded Price": "350",
+        "Savings (%)": "85.70%"
+    },
+    {
+        "Branded Name": "Cefuroxime Axetil",
+        "Generic Name": "Zifi",
+        "Jan Aushadhi Price": "14",
+        "Branded Price": "120",
+        "Savings (%)": "88.30%"
+    },
+    {
+        "Branded Name": "Clobetasol Cream",
+        "Generic Name": "Tenovate",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "60",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Dapagliflozin + Metformin",
+        "Generic Name": "Oxra-M",
+        "Jan Aushadhi Price": "25",
+        "Branded Price": "180",
+        "Savings (%)": "86.10%"
+    },
+    {
+        "Branded Name": "Desloratadine + Montelukast",
+        "Generic Name": "Montair-D",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "100",
+        "Savings (%)": "88%"
+    },
+    {
+        "Branded Name": "Dexamethasone Injection",
+        "Generic Name": "Dexona",
+        "Jan Aushadhi Price": "2",
+        "Branded Price": "15",
+        "Savings (%)": "86.70%"
+    },
+    {
+        "Branded Name": "Diclofenac Gel",
+        "Generic Name": "Voveran Gel",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "75",
+        "Savings (%)": "86.70%"
+    },
+    {
+        "Branded Name": "Doxofylline",
+        "Generic Name": "Doxovent",
+        "Jan Aushadhi Price": "7",
+        "Branded Price": "50",
+        "Savings (%)": "86%"
+    },
+    {
+        "Branded Name": "Empagliflozin + Metformin",
+        "Generic Name": "Jardiance Duo",
+        "Jan Aushadhi Price": "30",
+        "Branded Price": "200",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Ferrous Ascorbate + Folic Acid",
+        "Generic Name": "Dexorange",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "60",
+        "Savings (%)": "86.70%"
+    },
+    {
+        "Branded Name": "Fluticasone Nasal Spray",
+        "Generic Name": "Flonase",
+        "Jan Aushadhi Price": "25",
+        "Branded Price": "200",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Gabapentin",
+        "Generic Name": "Gabantin",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "80",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Glibenclamide + Metformin",
+        "Generic Name": "Gluconorm-G",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "40",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Hydrocortisone Cream",
+        "Generic Name": "Candid-HC",
+        "Jan Aushadhi Price": "7",
+        "Branded Price": "45",
+        "Savings (%)": "84.40%"
+    },
+    {
+        "Branded Name": "Itraconazole",
+        "Generic Name": "Canditral",
+        "Jan Aushadhi Price": "15",
+        "Branded Price": "110",
+        "Savings (%)": "86.40%"
+    },
+    {
+        "Branded Name": "Ketoconazole Shampoo",
+        "Generic Name": "Nizoral",
+        "Jan Aushadhi Price": "18",
+        "Branded Price": "120",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Levetiracetam",
+        "Generic Name": "Levipil",
+        "Jan Aushadhi Price": "20",
+        "Branded Price": "150",
+        "Savings (%)": "86.70%"
+    },
+    {
+        "Branded Name": "Luliconazole Cream",
+        "Generic Name": "Lulican",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "85",
+        "Savings (%)": "85.90%"
+    },
+    {
+        "Branded Name": "Methylcobalamin + Alpha Lipoic Acid",
+        "Generic Name": "Neurobion Forte",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "90",
+        "Savings (%)": "86.70%"
+    },
+    {
+        "Branded Name": "Mifepristone + Misoprostol",
+        "Generic Name": "MTP Kit",
+        "Jan Aushadhi Price": "150",
+        "Branded Price": "1,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Mometasone Cream",
+        "Generic Name": "Momate",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "70",
+        "Savings (%)": "85.70%"
+    },
+    {
+        "Branded Name": "Nebivolol",
+        "Generic Name": "Nebicard",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "55",
+        "Savings (%)": "85.50%"
+    },
+    {
+        "Branded Name": "Ofloxacin + Ornidazole",
+        "Generic Name": "Ornof",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "65",
+        "Savings (%)": "84.60%"
+    },
+    {
+        "Branded Name": "Olanzapine",
+        "Generic Name": "Oleanz",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "80",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Pantoprazole + Levosulpiride",
+        "Generic Name": "Pan-LS",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "70",
+        "Savings (%)": "85.70%"
+    },
+    {
+        "Branded Name": "Pregabalin",
+        "Generic Name": "Pregaba",
+        "Jan Aushadhi Price": "15",
+        "Branded Price": "100",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Rabeprazole + Domperidone",
+        "Generic Name": "Rablet-D",
+        "Jan Aushadhi Price": "9",
+        "Branded Price": "60",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Rosuvastatin + Clopidogrel",
+        "Generic Name": "Rozavel-CV",
+        "Jan Aushadhi Price": "14",
+        "Branded Price": "95",
+        "Savings (%)": "85.30%"
+    },
+    {
+        "Branded Name": "Salmeterol + Fluticasone",
+        "Generic Name": "Seretide",
+        "Jan Aushadhi Price": "60",
+        "Branded Price": "400",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Sertraline",
+        "Generic Name": "Sertral",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "70",
+        "Savings (%)": "85.70%"
+    },
+    {
+        "Branded Name": "Silodosin",
+        "Generic Name": "Silodal",
+        "Jan Aushadhi Price": "15",
+        "Branded Price": "90",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Sitagliptin + Metformin",
+        "Generic Name": "Janumet",
+        "Jan Aushadhi Price": "25",
+        "Branded Price": "180",
+        "Savings (%)": "86.10%"
+    },
+    {
+        "Branded Name": "Tamsulosin + Dutasteride",
+        "Generic Name": "Dutagen-T",
+        "Jan Aushadhi Price": "18",
+        "Branded Price": "110",
+        "Savings (%)": "83.60%"
+    },
+    {
+        "Branded Name": "Telmisartan + Hydrochlorothiazide",
+        "Generic Name": "Telma-H",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "75",
+        "Savings (%)": "84%"
+    },
+    {
+        "Branded Name": "Tranexamic Acid",
+        "Generic Name": "Pause",
+        "Jan Aushadhi Price": "7",
+        "Branded Price": "50",
+        "Savings (%)": "86%"
+    },
+    {
+        "Branded Name": "Valproic Acid",
+        "Generic Name": "Valparin",
+        "Jan Aushadhi Price": "9",
+        "Branded Price": "60",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Voglibose + Metformin",
+        "Generic Name": "Volix-M",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "70",
+        "Savings (%)": "85.70%"
+    },
+    {
+        "Branded Name": "Zinc Sulphate Syrup",
+        "Generic Name": "Zinconia",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "40",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Acyclovir Cream",
+        "Generic Name": "Acivir Cream",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "60",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Allopurinol + Febuxostat",
+        "Generic Name": "Feburic-AP",
+        "Jan Aushadhi Price": "18",
+        "Branded Price": "120",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Ambroxol Syrup",
+        "Generic Name": "Mucolite",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "80",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Amlodipine + Atenolol",
+        "Generic Name": "Amlopres-AT",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "50",
+        "Savings (%)": "84%"
+    },
+    {
+        "Branded Name": "Artemisinin",
+        "Generic Name": "Falcigo",
+        "Jan Aushadhi Price": "25",
+        "Branded Price": "150",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Baclofen",
+        "Generic Name": "Liofen",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "70",
+        "Savings (%)": "85.70%"
+    },
+    {
+        "Branded Name": "Beclomethasone Inhaler",
+        "Generic Name": "Becotide",
+        "Jan Aushadhi Price": "45",
+        "Branded Price": "300",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Benzhexol (Trihexyphenidyl)",
+        "Generic Name": "Pacitane",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "40",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Betamethasone + Clotrimazole",
+        "Generic Name": "Lotriderm",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "65",
+        "Savings (%)": "84.60%"
+    },
+    {
+        "Branded Name": "Brimonidine Eye Drops",
+        "Generic Name": "Alphagan",
+        "Jan Aushadhi Price": "20",
+        "Branded Price": "120",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Cefadroxil",
+        "Generic Name": "Duracef",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "80",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Chlorpheniramine Syrup",
+        "Generic Name": "CPM Syrup",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "50",
+        "Savings (%)": "84%"
+    },
+    {
+        "Branded Name": "Cilnidipine",
+        "Generic Name": "Cilacar",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "75",
+        "Savings (%)": "84%"
+    },
+    {
+        "Branded Name": "Clindamycin Gel",
+        "Generic Name": "Clinface",
+        "Jan Aushadhi Price": "15",
+        "Branded Price": "90",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Diclofenac + Serratiopeptidase",
+        "Generic Name": "Diclogem-S",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "70",
+        "Savings (%)": "85.70%"
+    },
+    {
+        "Branded Name": "Doxepin",
+        "Generic Name": "Sinquan",
+        "Jan Aushadhi Price": "9",
+        "Branded Price": "60",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Ebastine",
+        "Generic Name": "Ebastel",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "55",
+        "Savings (%)": "85.50%"
+    },
+    {
+        "Branded Name": "Erythromycin Ointment",
+        "Generic Name": "Erythrogel",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "40",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Famotidine",
+        "Generic Name": "Famocid",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "30",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Fluconazole Vaginal Tablet",
+        "Generic Name": "Flucozole-V",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "50",
+        "Savings (%)": "84%"
+    },
+    {
+        "Branded Name": "Folic Acid + Iron",
+        "Generic Name": "Folvite-F",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "35",
+        "Savings (%)": "82.90%"
+    },
+    {
+        "Branded Name": "Gliclazide",
+        "Generic Name": "Diamicron",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "65",
+        "Savings (%)": "84.60%"
+    },
+    {
+        "Branded Name": "Hydroquinone Cream",
+        "Generic Name": "Melalite",
+        "Jan Aushadhi Price": "14",
+        "Branded Price": "85",
+        "Savings (%)": "83.50%"
+    },
+    {
+        "Branded Name": "Ketorolac Eye Drops",
+        "Generic Name": "Acular LS",
+        "Jan Aushadhi Price": "15",
+        "Branded Price": "100",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Lactulose Syrup",
+        "Generic Name": "Duphalac",
+        "Jan Aushadhi Price": "20",
+        "Branded Price": "120",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Levocetirizine",
+        "Generic Name": "Teczine",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "40",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Lisinopril + Hydrochlorothiazide",
+        "Generic Name": "Zestoretic",
+        "Jan Aushadhi Price": "9",
+        "Branded Price": "55",
+        "Savings (%)": "83.60%"
+    },
+    {
+        "Branded Name": "Mecobalamin Injection",
+        "Generic Name": "Meconerv",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "50",
+        "Savings (%)": "84%"
+    },
+    {
+        "Branded Name": "Mefenamic Acid Syrup",
+        "Generic Name": "Meftal-P",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "65",
+        "Savings (%)": "84.60%"
+    },
+    {
+        "Branded Name": "Methylprednisolone",
+        "Generic Name": "Medrol",
+        "Jan Aushadhi Price": "7",
+        "Branded Price": "45",
+        "Savings (%)": "84.40%"
+    },
+    {
+        "Branded Name": "Metronidazole Gel",
+        "Generic Name": "Metrogyl Gel",
+        "Jan Aushadhi Price": "9",
+        "Branded Price": "55",
+        "Savings (%)": "83.60%"
+    },
+    {
+        "Branded Name": "Miconazole Powder",
+        "Generic Name": "Dermicide Powder",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "40",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Miglitol",
+        "Generic Name": "Glyset",
+        "Jan Aushadhi Price": "15",
+        "Branded Price": "90",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Mometasone Nasal Spray",
+        "Generic Name": "Nasonex",
+        "Jan Aushadhi Price": "30",
+        "Branded Price": "200",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "N-Acetylcysteine",
+        "Generic Name": "Nac",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "50",
+        "Savings (%)": "84%"
+    },
+    {
+        "Branded Name": "Naftifine Cream",
+        "Generic Name": "Naftin",
+        "Jan Aushadhi Price": "18",
+        "Branded Price": "110",
+        "Savings (%)": "83.60%"
+    },
+    {
+        "Branded Name": "Nimesulide Suspension",
+        "Generic Name": "Nimegesic",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "60",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Nystatin Cream",
+        "Generic Name": "Nysoral",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "50",
+        "Savings (%)": "84%"
+    },
+    {
+        "Branded Name": "Ondansetron Syrup",
+        "Generic Name": "Emeset Syrup",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "70",
+        "Savings (%)": "82.90%"
+    },
+    {
+        "Branded Name": "Orphenadrine + Paracetamol",
+        "Generic Name": "Norgesic",
+        "Jan Aushadhi Price": "9",
+        "Branded Price": "55",
+        "Savings (%)": "83.60%"
+    },
+    {
+        "Branded Name": "Oxytocin Injection",
+        "Generic Name": "Pitocin",
+        "Jan Aushadhi Price": "4",
+        "Branded Price": "25",
+        "Savings (%)": "84%"
+    },
+    {
+        "Branded Name": "Phenytoin Syrup",
+        "Generic Name": "Eptoin Syrup",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "80",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Piracetam",
+        "Generic Name": "Nootropil",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "60",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Povidone-Iodine Gargle",
+        "Generic Name": "Betadine Gargle",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "50",
+        "Savings (%)": "84%"
+    },
+    {
+        "Branded Name": "Prazosin",
+        "Generic Name": "Minipress",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "32",
+        "Savings (%)": "84.40%"
+    },
+    {
+        "Branded Name": "Promethazine Syrup",
+        "Generic Name": "Phenergan",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "65",
+        "Savings (%)": "84.60%"
+    },
+    {
+        "Branded Name": "Ranitidine Syrup",
+        "Generic Name": "Zinetac Syrup",
+        "Jan Aushadhi Price": "7",
+        "Branded Price": "45",
+        "Savings (%)": "84.40%"
+    },
+    {
+        "Branded Name": "Rifampicin",
+        "Generic Name": "Rifampin",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "70",
+        "Savings (%)": "82.90%"
+    },
+    {
+        "Branded Name": "Sulfasalazine",
+        "Generic Name": "Salazopyrin",
+        "Jan Aushadhi Price": "13",
+        "Branded Price": "80",
+        "Savings (%)": "83.80%"
+    },
+    {
+        "Branded Name": "Tetracycline Eye Ointment",
+        "Generic Name": "Terramycin",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "40",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Apremilast",
+        "Generic Name": "Aprezo",
+        "Jan Aushadhi Price": "500",
+        "Branded Price": "3,500",
+        "Savings (%)": "85.70%"
+    },
+    {
+        "Branded Name": "Baricitinib",
+        "Generic Name": "Baricinix",
+        "Jan Aushadhi Price": "400",
+        "Branded Price": "2,800",
+        "Savings (%)": "85.70%"
+    },
+    {
+        "Branded Name": "Bortezomib",
+        "Generic Name": "Bortenet",
+        "Jan Aushadhi Price": "1,200",
+        "Branded Price": "8,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Brimonidine + Timolol",
+        "Generic Name": "Combigan",
+        "Jan Aushadhi Price": "30",
+        "Branded Price": "180",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Capmatinib",
+        "Generic Name": "Capvax",
+        "Jan Aushadhi Price": "4,000",
+        "Branded Price": "25,000",
+        "Savings (%)": "84%"
+    },
+    {
+        "Branded Name": "Cefixime + Ofloxacin",
+        "Generic Name": "Cefolac-O",
+        "Jan Aushadhi Price": "20",
+        "Branded Price": "120",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Crizotinib",
+        "Generic Name": "Crizonix",
+        "Jan Aushadhi Price": "2,700",
+        "Branded Price": "18,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Dabrafenib",
+        "Generic Name": "Dabratinib",
+        "Jan Aushadhi Price": "2,250",
+        "Branded Price": "15,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Daratumumab",
+        "Generic Name": "Daratux",
+        "Jan Aushadhi Price": "7,500",
+        "Branded Price": "50,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Dexamethasone + Tobramycin",
+        "Generic Name": "Tobradex",
+        "Jan Aushadhi Price": "25",
+        "Branded Price": "150",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Dorzolamide + Timolol",
+        "Generic Name": "Dorzox-T",
+        "Jan Aushadhi Price": "22",
+        "Branded Price": "130",
+        "Savings (%)": "83.10%"
+    },
+    {
+        "Branded Name": "Doxorubicin Liposomal",
+        "Generic Name": "Doxolip",
+        "Jan Aushadhi Price": "1,800",
+        "Branded Price": "12,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Eltrombopag",
+        "Generic Name": "Eltrox",
+        "Jan Aushadhi Price": "900",
+        "Branded Price": "6,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Empagliflozin + Linagliptin",
+        "Generic Name": "Jardiance Duo",
+        "Jan Aushadhi Price": "35",
+        "Branded Price": "220",
+        "Savings (%)": "84.10%"
+    },
+    {
+        "Branded Name": "Enzalutamide",
+        "Generic Name": "Enzamide",
+        "Jan Aushadhi Price": "3,000",
+        "Branded Price": "20,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Erlotinib",
+        "Generic Name": "Erlonat",
+        "Jan Aushadhi Price": "750",
+        "Branded Price": "5,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Everolimus",
+        "Generic Name": "Evromus",
+        "Jan Aushadhi Price": "1,200",
+        "Branded Price": "8,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Fexofenadine + Montelukast",
+        "Generic Name": "Fexo-M",
+        "Jan Aushadhi Price": "15",
+        "Branded Price": "100",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Fluorouracil Cream",
+        "Generic Name": "Fluoroplex",
+        "Jan Aushadhi Price": "40",
+        "Branded Price": "250",
+        "Savings (%)": "84%"
+    },
+    {
+        "Branded Name": "Fosaprepitant",
+        "Generic Name": "Fosnetupitant",
+        "Jan Aushadhi Price": "525",
+        "Branded Price": "3,500",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Gefitinib",
+        "Generic Name": "Geftinat",
+        "Jan Aushadhi Price": "825",
+        "Branded Price": "5,500",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Glibenclamide + Metformin + Pioglitazone",
+        "Generic Name": "Tripride",
+        "Jan Aushadhi Price": "15",
+        "Branded Price": "90",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Hydroxyurea",
+        "Generic Name": "Hydrea",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "80",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Ibrutinib",
+        "Generic Name": "Imbruvica",
+        "Jan Aushadhi Price": "6,750",
+        "Branded Price": "45,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Imatinib",
+        "Generic Name": "Imatib",
+        "Jan Aushadhi Price": "1,500",
+        "Branded Price": "10,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Ivermectin + Albendazole",
+        "Generic Name": "Abidec",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "50",
+        "Savings (%)": "84%"
+    },
+    {
+        "Branded Name": "Lacosamide",
+        "Generic Name": "Lacosam",
+        "Jan Aushadhi Price": "90",
+        "Branded Price": "600",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Lenvatinib",
+        "Generic Name": "Lenvanix",
+        "Jan Aushadhi Price": "3,300",
+        "Branded Price": "22,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Linagliptin + Metformin",
+        "Generic Name": "Lina-M",
+        "Jan Aushadhi Price": "25",
+        "Branded Price": "150",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Lorlatinib",
+        "Generic Name": "Lorlanib",
+        "Jan Aushadhi Price": "5,250",
+        "Branded Price": "35,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Mannitol Injection",
+        "Generic Name": "Osmitrol",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "60",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Methotrexate Injection",
+        "Generic Name": "Methoject",
+        "Jan Aushadhi Price": "20",
+        "Branded Price": "120",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Midazolam Injection",
+        "Generic Name": "Dormicum",
+        "Jan Aushadhi Price": "30",
+        "Branded Price": "200",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Nilotinib",
+        "Generic Name": "Nilotonix",
+        "Jan Aushadhi Price": "2,250",
+        "Branded Price": "15,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Nintedanib",
+        "Generic Name": "Nintenib",
+        "Jan Aushadhi Price": "1,800",
+        "Branded Price": "12,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Osimertinib",
+        "Generic Name": "Osimert",
+        "Jan Aushadhi Price": "4,500",
+        "Branded Price": "30,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Palbociclib",
+        "Generic Name": "Palbonix",
+        "Jan Aushadhi Price": "3,750",
+        "Branded Price": "25,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Pembrolizumab",
+        "Generic Name": "Keytruda",
+        "Jan Aushadhi Price": "22,500",
+        "Branded Price": "1,50,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Pomalidomide",
+        "Generic Name": "Pomabid",
+        "Jan Aushadhi Price": "2,700",
+        "Branded Price": "18,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Pregabalin + Methylcobalamin",
+        "Generic Name": "Pregeb-M",
+        "Jan Aushadhi Price": "25",
+        "Branded Price": "150",
+        "Savings (%)": "83.30%"
+    },
+    {
+        "Branded Name": "Rivaroxaban",
+        "Generic Name": "Xarelto",
+        "Jan Aushadhi Price": "38",
+        "Branded Price": "470",
+        "Savings (%)": "91.90%"
+    },
+    {
+        "Branded Name": "Rituximab",
+        "Generic Name": "Mabthera",
+        "Jan Aushadhi Price": "3,750",
+        "Branded Price": "25,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Ruxolitinib",
+        "Generic Name": "Ruxolit",
+        "Jan Aushadhi Price": "1,200",
+        "Branded Price": "8,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Sacubitril + Valsartan",
+        "Generic Name": "Entresto",
+        "Jan Aushadhi Price": "180",
+        "Branded Price": "1,200",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Saxagliptin + Metformin",
+        "Generic Name": "Saxa-M",
+        "Jan Aushadhi Price": "23",
+        "Branded Price": "140",
+        "Savings (%)": "83.60%"
+    },
+    {
+        "Branded Name": "Sorafenib",
+        "Generic Name": "Soranib",
+        "Jan Aushadhi Price": "1,800",
+        "Branded Price": "12,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Sunitinib",
+        "Generic Name": "Sutinib",
+        "Jan Aushadhi Price": "2,250",
+        "Branded Price": "15,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Tacrolimus Ointment",
+        "Generic Name": "Tacroz",
+        "Jan Aushadhi Price": "55",
+        "Branded Price": "350",
+        "Savings (%)": "84.30%"
+    },
+    {
+        "Branded Name": "Tofacitinib",
+        "Generic Name": "Tofaxen",
+        "Jan Aushadhi Price": "900",
+        "Branded Price": "6,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Trametinib",
+        "Generic Name": "Tramenib",
+        "Jan Aushadhi Price": "2,700",
+        "Branded Price": "18,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Adefovir Dipivoxil",
+        "Generic Name": "Hepsera",
+        "Jan Aushadhi Price": "375",
+        "Branded Price": "2,500",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Almotriptan",
+        "Generic Name": "Almogran",
+        "Jan Aushadhi Price": "18",
+        "Branded Price": "120",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Aprepitant",
+        "Generic Name": "Aprecap",
+        "Jan Aushadhi Price": "120",
+        "Branded Price": "800",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Atazanavir",
+        "Generic Name": "Reyataz",
+        "Jan Aushadhi Price": "450",
+        "Branded Price": "3,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Bendamustine",
+        "Generic Name": "Bendeka",
+        "Jan Aushadhi Price": "900",
+        "Branded Price": "6,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Betaxolol Eye Drops",
+        "Generic Name": "Betoptic",
+        "Jan Aushadhi Price": "23",
+        "Branded Price": "150",
+        "Savings (%)": "84.70%"
+    },
+    {
+        "Branded Name": "Bicalutamide",
+        "Generic Name": "Casodex",
+        "Jan Aushadhi Price": "180",
+        "Branded Price": "1,200",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Bosutinib",
+        "Generic Name": "Bosulif",
+        "Jan Aushadhi Price": "4,200",
+        "Branded Price": "28,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Brentuximab Vedotin",
+        "Generic Name": "Adcetris",
+        "Jan Aushadhi Price": "11,250",
+        "Branded Price": "75,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Cabazitaxel",
+        "Generic Name": "Jevtana",
+        "Jan Aushadhi Price": "4,800",
+        "Branded Price": "32,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Carfilzomib",
+        "Generic Name": "Kyprolis",
+        "Jan Aushadhi Price": "6,750",
+        "Branded Price": "45,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Cefdinir",
+        "Generic Name": "Omnicef",
+        "Jan Aushadhi Price": "45",
+        "Branded Price": "300",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Ceritinib",
+        "Generic Name": "Zykadia",
+        "Jan Aushadhi Price": "5,700",
+        "Branded Price": "38,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Chlorambucil",
+        "Generic Name": "Leukeran",
+        "Jan Aushadhi Price": "225",
+        "Branded Price": "1,500",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Ciclesonide Nasal Spray",
+        "Generic Name": "Omnaris",
+        "Jan Aushadhi Price": "53",
+        "Branded Price": "350",
+        "Savings (%)": "84.90%"
+    },
+    {
+        "Branded Name": "Crizanlizumab",
+        "Generic Name": "Adakveo",
+        "Jan Aushadhi Price": "18,000",
+        "Branded Price": "1,20,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Daclatasvir",
+        "Generic Name": "Daklinza",
+        "Jan Aushadhi Price": "750",
+        "Branded Price": "5,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Dasatinib",
+        "Generic Name": "Sprycel",
+        "Jan Aushadhi Price": "2,250",
+        "Branded Price": "15,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Decitabine",
+        "Generic Name": "Dacogen",
+        "Jan Aushadhi Price": "3,750",
+        "Branded Price": "25,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Dexrazoxane",
+        "Generic Name": "Zinecard",
+        "Jan Aushadhi Price": "600",
+        "Branded Price": "4,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Doravirine",
+        "Generic Name": "Pifeltro",
+        "Jan Aushadhi Price": "420",
+        "Branded Price": "2,800",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Doxercalciferol",
+        "Generic Name": "Hectorol",
+        "Jan Aushadhi Price": "270",
+        "Branded Price": "1,800",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Eculizumab",
+        "Generic Name": "Soliris",
+        "Jan Aushadhi Price": "37,500",
+        "Branded Price": "2,50,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Elbasvir + Grazoprevir",
+        "Generic Name": "Zepatier",
+        "Jan Aushadhi Price": "1,200",
+        "Branded Price": "8,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Emtricitabine + Tenofovir",
+        "Generic Name": "Truvada",
+        "Jan Aushadhi Price": "525",
+        "Branded Price": "3,500",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Enasidenib",
+        "Generic Name": "Idhifa",
+        "Jan Aushadhi Price": "8,250",
+        "Branded Price": "55,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Eribulin",
+        "Generic Name": "Halaven",
+        "Jan Aushadhi Price": "4,200",
+        "Branded Price": "28,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Etravirine",
+        "Generic Name": "Intelence",
+        "Jan Aushadhi Price": "675",
+        "Branded Price": "4,500",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Famciclovir",
+        "Generic Name": "Famvir",
+        "Jan Aushadhi Price": "90",
+        "Branded Price": "600",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Fingolimod",
+        "Generic Name": "Gilenya",
+        "Jan Aushadhi Price": "1,800",
+        "Branded Price": "12,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Fludarabine",
+        "Generic Name": "Fludara",
+        "Jan Aushadhi Price": "750",
+        "Branded Price": "5,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Fosfestrol",
+        "Generic Name": "Honvan",
+        "Jan Aushadhi Price": "180",
+        "Branded Price": "1,200",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Gadobutrol",
+        "Generic Name": "Gadovist",
+        "Jan Aushadhi Price": "525",
+        "Branded Price": "3,500",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Ganciclovir Eye Gel",
+        "Generic Name": "Virgan",
+        "Jan Aushadhi Price": "60",
+        "Branded Price": "400",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Gefapixant",
+        "Generic Name": "Lyfnua",
+        "Jan Aushadhi Price": "900",
+        "Branded Price": "6,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Glasdegib",
+        "Generic Name": "Daurismo",
+        "Jan Aushadhi Price": "6,300",
+        "Branded Price": "42,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Glecaprevir + Pibrentasvir",
+        "Generic Name": "Mavyret",
+        "Jan Aushadhi Price": "2,250",
+        "Branded Price": "15,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Goserelin",
+        "Generic Name": "Zoladex",
+        "Jan Aushadhi Price": "1,200",
+        "Branded Price": "8,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Ibandronate",
+        "Generic Name": "Bonviva",
+        "Jan Aushadhi Price": "375",
+        "Branded Price": "2,500",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Idelalisib",
+        "Generic Name": "Zydelig",
+        "Jan Aushadhi Price": "5,250",
+        "Branded Price": "35,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Inotuzumab Ozogamicin",
+        "Generic Name": "Besponsa",
+        "Jan Aushadhi Price": "22,500",
+        "Branded Price": "1,50,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Ixazomib",
+        "Generic Name": "Ninlaro",
+        "Jan Aushadhi Price": "7,200",
+        "Branded Price": "48,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Lapatinib",
+        "Generic Name": "Tykerb",
+        "Jan Aushadhi Price": "2,700",
+        "Branded Price": "18,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Ledipasvir + Sofosbuvir",
+        "Generic Name": "Harvoni",
+        "Jan Aushadhi Price": "3,300",
+        "Branded Price": "22,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Lenvatinib",
+        "Generic Name": "Lenvima",
+        "Jan Aushadhi Price": "3,750",
+        "Branded Price": "25,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Letermovir",
+        "Generic Name": "Prevymis",
+        "Jan Aushadhi Price": "2,250",
+        "Branded Price": "15,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Lipegfilgrastim",
+        "Generic Name": "Lonquex",
+        "Jan Aushadhi Price": "1,800",
+        "Branded Price": "12,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Lofexidine",
+        "Generic Name": "Lucemyra",
+        "Jan Aushadhi Price": "750",
+        "Branded Price": "5,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Lonafarnib",
+        "Generic Name": "Zokinvy",
+        "Jan Aushadhi Price": "18,000",
+        "Branded Price": "1,20,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Lurbinectedin",
+        "Generic Name": "Zepzelca",
+        "Jan Aushadhi Price": "9,750",
+        "Branded Price": "65,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Hepsera",
+        "Generic Name": "Adefovir Dipivoxil",
+        "Jan Aushadhi Price": "375",
+        "Branded Price": "2,500",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Almogran",
+        "Generic Name": "Almotriptan",
+        "Jan Aushadhi Price": "18",
+        "Branded Price": "120",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Aprecap",
+        "Generic Name": "Aprepitant",
+        "Jan Aushadhi Price": "120",
+        "Branded Price": "800",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Reyataz",
+        "Generic Name": "Atazanavir",
+        "Jan Aushadhi Price": "450",
+        "Branded Price": "3,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Bendeka",
+        "Generic Name": "Bendamustine",
+        "Jan Aushadhi Price": "900",
+        "Branded Price": "6,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Betoptic",
+        "Generic Name": "Betaxolol Eye Drops",
+        "Jan Aushadhi Price": "23",
+        "Branded Price": "150",
+        "Savings (%)": "84.70%"
+    },
+    {
+        "Branded Name": "Casodex",
+        "Generic Name": "Bicalutamide",
+        "Jan Aushadhi Price": "180",
+        "Branded Price": "1,200",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Bosulif",
+        "Generic Name": "Bosutinib",
+        "Jan Aushadhi Price": "4,200",
+        "Branded Price": "28,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Adcetris",
+        "Generic Name": "Brentuximab Vedotin",
+        "Jan Aushadhi Price": "11,250",
+        "Branded Price": "75,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Jevtana",
+        "Generic Name": "Cabazitaxel",
+        "Jan Aushadhi Price": "4,800",
+        "Branded Price": "32,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Kyprolis",
+        "Generic Name": "Carfilzomib",
+        "Jan Aushadhi Price": "6,750",
+        "Branded Price": "45,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Omnicef",
+        "Generic Name": "Cefdinir",
+        "Jan Aushadhi Price": "45",
+        "Branded Price": "300",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Zykadia",
+        "Generic Name": "Ceritinib",
+        "Jan Aushadhi Price": "5,700",
+        "Branded Price": "38,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Leukeran",
+        "Generic Name": "Chlorambucil",
+        "Jan Aushadhi Price": "225",
+        "Branded Price": "1,500",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Omnaris",
+        "Generic Name": "Ciclesonide Nasal Spray",
+        "Jan Aushadhi Price": "53",
+        "Branded Price": "350",
+        "Savings (%)": "84.90%"
+    },
+    {
+        "Branded Name": "Adakveo",
+        "Generic Name": "Crizanlizumab",
+        "Jan Aushadhi Price": "18,000",
+        "Branded Price": "1,20,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Daklinza",
+        "Generic Name": "Daclatasvir",
+        "Jan Aushadhi Price": "750",
+        "Branded Price": "5,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Sprycel",
+        "Generic Name": "Dasatinib",
+        "Jan Aushadhi Price": "2,250",
+        "Branded Price": "15,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Dacogen",
+        "Generic Name": "Decitabine",
+        "Jan Aushadhi Price": "3,750",
+        "Branded Price": "25,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Zinecard",
+        "Generic Name": "Dexrazoxane",
+        "Jan Aushadhi Price": "600",
+        "Branded Price": "4,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Pifeltro",
+        "Generic Name": "Doravirine",
+        "Jan Aushadhi Price": "420",
+        "Branded Price": "2,800",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Hectorol",
+        "Generic Name": "Doxercalciferol",
+        "Jan Aushadhi Price": "270",
+        "Branded Price": "1,800",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Soliris",
+        "Generic Name": "Eculizumab",
+        "Jan Aushadhi Price": "37,500",
+        "Branded Price": "2,50,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Zepatier",
+        "Generic Name": "Elbasvir + Grazoprevir",
+        "Jan Aushadhi Price": "1,200",
+        "Branded Price": "8,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Truvada",
+        "Generic Name": "Emtricitabine + Tenofovir",
+        "Jan Aushadhi Price": "525",
+        "Branded Price": "3,500",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Idhifa",
+        "Generic Name": "Enasidenib",
+        "Jan Aushadhi Price": "8,250",
+        "Branded Price": "55,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Halaven",
+        "Generic Name": "Eribulin",
+        "Jan Aushadhi Price": "4,200",
+        "Branded Price": "28,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Intelence",
+        "Generic Name": "Etravirine",
+        "Jan Aushadhi Price": "675",
+        "Branded Price": "4,500",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Famvir",
+        "Generic Name": "Famciclovir",
+        "Jan Aushadhi Price": "90",
+        "Branded Price": "600",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Gilenya",
+        "Generic Name": "Fingolimod",
+        "Jan Aushadhi Price": "1,800",
+        "Branded Price": "12,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Fludara",
+        "Generic Name": "Fludarabine",
+        "Jan Aushadhi Price": "750",
+        "Branded Price": "5,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Honvan",
+        "Generic Name": "Fosfestrol",
+        "Jan Aushadhi Price": "180",
+        "Branded Price": "1,200",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Gadovist",
+        "Generic Name": "Gadobutrol",
+        "Jan Aushadhi Price": "525",
+        "Branded Price": "3,500",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Virgan",
+        "Generic Name": "Ganciclovir Eye Gel",
+        "Jan Aushadhi Price": "60",
+        "Branded Price": "400",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Lyfnua",
+        "Generic Name": "Gefapixant",
+        "Jan Aushadhi Price": "900",
+        "Branded Price": "6,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Daurismo",
+        "Generic Name": "Glasdegib",
+        "Jan Aushadhi Price": "6,300",
+        "Branded Price": "42,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Mavyret",
+        "Generic Name": "Glecaprevir + Pibrentasvir",
+        "Jan Aushadhi Price": "2,250",
+        "Branded Price": "15,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Zoladex",
+        "Generic Name": "Goserelin",
+        "Jan Aushadhi Price": "1,200",
+        "Branded Price": "8,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Bonviva",
+        "Generic Name": "Ibandronate",
+        "Jan Aushadhi Price": "375",
+        "Branded Price": "2,500",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Zydelig",
+        "Generic Name": "Idelalisib",
+        "Jan Aushadhi Price": "5,250",
+        "Branded Price": "35,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Besponsa",
+        "Generic Name": "Inotuzumab Ozogamicin",
+        "Jan Aushadhi Price": "22,500",
+        "Branded Price": "1,50,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Ninlaro",
+        "Generic Name": "Ixazomib",
+        "Jan Aushadhi Price": "7,200",
+        "Branded Price": "48,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Tykerb",
+        "Generic Name": "Lapatinib",
+        "Jan Aushadhi Price": "2,700",
+        "Branded Price": "18,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Harvoni",
+        "Generic Name": "Ledipasvir + Sofosbuvir",
+        "Jan Aushadhi Price": "3,300",
+        "Branded Price": "22,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Lenvima",
+        "Generic Name": "Lenvatinib",
+        "Jan Aushadhi Price": "3,750",
+        "Branded Price": "25,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Prevymis",
+        "Generic Name": "Letermovir",
+        "Jan Aushadhi Price": "2,250",
+        "Branded Price": "15,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Lonquex",
+        "Generic Name": "Lipegfilgrastim",
+        "Jan Aushadhi Price": "1,800",
+        "Branded Price": "12,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Lucemyra",
+        "Generic Name": "Lofexidine",
+        "Jan Aushadhi Price": "750",
+        "Branded Price": "5,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Zokinvy",
+        "Generic Name": "Lonafarnib",
+        "Jan Aushadhi Price": "18,000",
+        "Branded Price": "1,20,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Zepzelca",
+        "Generic Name": "Lurbinectedin",
+        "Jan Aushadhi Price": "9,750",
+        "Branded Price": "65,000",
+        "Savings (%)": "85%"
+    },
+    {
+        "Branded Name": "Velpanat",
+        "Generic Name": "Sofosbuvir + Velpatasvir",
+        "Jan Aushadhi Price": "2,500",
+        "Branded Price": "19,000",
+        "Savings (%)": "86.84%"
+    },
+    {
+        "Branded Name": "Myhep LVIR",
+        "Generic Name": "Ledipasvir + Sofosbuvir",
+        "Jan Aushadhi Price": "3,000",
+        "Branded Price": "22,000",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Sovodak",
+        "Generic Name": "Daclatasvir + Sofosbuvir",
+        "Jan Aushadhi Price": "2,800",
+        "Branded Price": "21,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Darolife",
+        "Generic Name": "Darunavir",
+        "Jan Aushadhi Price": "1,200",
+        "Branded Price": "9,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tofacip",
+        "Generic Name": "Tofacitinib",
+        "Jan Aushadhi Price": "800",
+        "Branded Price": "6,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Imatinib",
+        "Generic Name": "Imatinib Mesylate",
+        "Jan Aushadhi Price": "1,400",
+        "Branded Price": "10,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Gefitinib",
+        "Generic Name": "Gefitinib",
+        "Jan Aushadhi Price": "1,600",
+        "Branded Price": "12,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Lenalid",
+        "Generic Name": "Lenalidomide",
+        "Jan Aushadhi Price": "2,200",
+        "Branded Price": "16,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Soranib",
+        "Generic Name": "Sorafenib",
+        "Jan Aushadhi Price": "1,800",
+        "Branded Price": "13,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Pazonib",
+        "Generic Name": "Pazopanib",
+        "Jan Aushadhi Price": "2,400",
+        "Branded Price": "18,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Axitinib",
+        "Generic Name": "Axitinib",
+        "Jan Aushadhi Price": "2,600",
+        "Branded Price": "19,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Cabozanib",
+        "Generic Name": "Cabozantinib",
+        "Jan Aushadhi Price": "3,200",
+        "Branded Price": "24,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Regoraf",
+        "Generic Name": "Regorafenib",
+        "Jan Aushadhi Price": "2,800",
+        "Branded Price": "21,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Nilotinib",
+        "Generic Name": "Nilotinib",
+        "Jan Aushadhi Price": "2,400",
+        "Branded Price": "18,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Dasatinib",
+        "Generic Name": "Dasatinib",
+        "Jan Aushadhi Price": "2,200",
+        "Branded Price": "16,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Ponatinib",
+        "Generic Name": "Ponatinib",
+        "Jan Aushadhi Price": "4,500",
+        "Branded Price": "34,000",
+        "Savings (%)": "86.76%"
+    },
+    {
+        "Branded Name": "Ibrutinib",
+        "Generic Name": "Ibrutinib",
+        "Jan Aushadhi Price": "3,600",
+        "Branded Price": "27,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Acalabrutinib",
+        "Generic Name": "Acalabrutinib",
+        "Jan Aushadhi Price": "4,200",
+        "Branded Price": "31,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Venetoclax",
+        "Generic Name": "Venetoclax",
+        "Jan Aushadhi Price": "3,800",
+        "Branded Price": "28,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Ruxolitinib",
+        "Generic Name": "Ruxolitinib",
+        "Jan Aushadhi Price": "2,500",
+        "Branded Price": "18,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Baricitinib",
+        "Generic Name": "Baricitinib",
+        "Jan Aushadhi Price": "1,200",
+        "Branded Price": "9,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tofacitinib",
+        "Generic Name": "Tofacitinib",
+        "Jan Aushadhi Price": "1,000",
+        "Branded Price": "7,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Upadacitinib",
+        "Generic Name": "Upadacitinib",
+        "Jan Aushadhi Price": "1,800",
+        "Branded Price": "13,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Filgotinib",
+        "Generic Name": "Filgotinib",
+        "Jan Aushadhi Price": "2,200",
+        "Branded Price": "16,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Secukinumab",
+        "Generic Name": "Secukinumab",
+        "Jan Aushadhi Price": "8,500",
+        "Branded Price": "64,000",
+        "Savings (%)": "86.72%"
+    },
+    {
+        "Branded Name": "Ixekizumab",
+        "Generic Name": "Ixekizumab",
+        "Jan Aushadhi Price": "9,200",
+        "Branded Price": "69,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Ustekinumab",
+        "Generic Name": "Ustekinumab",
+        "Jan Aushadhi Price": "7,800",
+        "Branded Price": "58,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Guselkumab",
+        "Generic Name": "Guselkumab",
+        "Jan Aushadhi Price": "8,000",
+        "Branded Price": "60,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Risankizumab",
+        "Generic Name": "Risankizumab",
+        "Jan Aushadhi Price": "9,500",
+        "Branded Price": "71,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tildrakizumab",
+        "Generic Name": "Tildrakizumab",
+        "Jan Aushadhi Price": "8,200",
+        "Branded Price": "61,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Dupilumab",
+        "Generic Name": "Dupilumab",
+        "Jan Aushadhi Price": "7,500",
+        "Branded Price": "56,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Omalizumab",
+        "Generic Name": "Omalizumab",
+        "Jan Aushadhi Price": "6,800",
+        "Branded Price": "51,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Mepolizumab",
+        "Generic Name": "Mepolizumab",
+        "Jan Aushadhi Price": "7,200",
+        "Branded Price": "54,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Benralizumab",
+        "Generic Name": "Benralizumab",
+        "Jan Aushadhi Price": "7,800",
+        "Branded Price": "58,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Reslizumab",
+        "Generic Name": "Reslizumab",
+        "Jan Aushadhi Price": "7,500",
+        "Branded Price": "56,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tezepelumab",
+        "Generic Name": "Tezepelumab",
+        "Jan Aushadhi Price": "9,000",
+        "Branded Price": "67,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Eculizumab",
+        "Generic Name": "Eculizumab",
+        "Jan Aushadhi Price": "12,000",
+        "Branded Price": "90,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Ravulizumab",
+        "Generic Name": "Ravulizumab",
+        "Jan Aushadhi Price": "13,000",
+        "Branded Price": "97,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Infliximab",
+        "Generic Name": "Infliximab",
+        "Jan Aushadhi Price": "5,500",
+        "Branded Price": "41,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Adalimumab",
+        "Generic Name": "Adalimumab",
+        "Jan Aushadhi Price": "4,800",
+        "Branded Price": "36,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Golimumab",
+        "Generic Name": "Golimumab",
+        "Jan Aushadhi Price": "6,200",
+        "Branded Price": "46,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Certolizumab",
+        "Generic Name": "Certolizumab Pegol",
+        "Jan Aushadhi Price": "7,000",
+        "Branded Price": "52,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Vedolizumab",
+        "Generic Name": "Vedolizumab",
+        "Jan Aushadhi Price": "8,500",
+        "Branded Price": "63,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Natalizumab",
+        "Generic Name": "Natalizumab",
+        "Jan Aushadhi Price": "9,200",
+        "Branded Price": "69,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tocilizumab",
+        "Generic Name": "Tocilizumab",
+        "Jan Aushadhi Price": "7,800",
+        "Branded Price": "58,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Sarilumab",
+        "Generic Name": "Sarilumab",
+        "Jan Aushadhi Price": "8,200",
+        "Branded Price": "61,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Siltuximab",
+        "Generic Name": "Siltuximab",
+        "Jan Aushadhi Price": "9,500",
+        "Branded Price": "71,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Canakinumab",
+        "Generic Name": "Canakinumab",
+        "Jan Aushadhi Price": "12,000",
+        "Branded Price": "90,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Rituximab",
+        "Generic Name": "Rituximab",
+        "Jan Aushadhi Price": "5,500",
+        "Branded Price": "41,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Obinutuzumab",
+        "Generic Name": "Obinutuzumab",
+        "Jan Aushadhi Price": "8,000",
+        "Branded Price": "60,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Bevacizumab",
+        "Generic Name": "Bevacizumab",
+        "Jan Aushadhi Price": "3,800",
+        "Branded Price": "28,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Pertuzumab",
+        "Generic Name": "Pertuzumab",
+        "Jan Aushadhi Price": "18,000",
+        "Branded Price": "1,35,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Trastuzumab",
+        "Generic Name": "Trastuzumab",
+        "Jan Aushadhi Price": "9,500",
+        "Branded Price": "71,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Cetuximab",
+        "Generic Name": "Cetuximab",
+        "Jan Aushadhi Price": "12,000",
+        "Branded Price": "90,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Panitumumab",
+        "Generic Name": "Panitumumab",
+        "Jan Aushadhi Price": "15,000",
+        "Branded Price": "1,12,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Nivolumab",
+        "Generic Name": "Nivolumab",
+        "Jan Aushadhi Price": "8,200",
+        "Branded Price": "61,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Pembrolizumab",
+        "Generic Name": "Pembrolizumab",
+        "Jan Aushadhi Price": "9,800",
+        "Branded Price": "73,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Atezolizumab",
+        "Generic Name": "Atezolizumab",
+        "Jan Aushadhi Price": "11,500",
+        "Branded Price": "86,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Durvalumab",
+        "Generic Name": "Durvalumab",
+        "Jan Aushadhi Price": "13,000",
+        "Branded Price": "97,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Avelumab",
+        "Generic Name": "Avelumab",
+        "Jan Aushadhi Price": "14,500",
+        "Branded Price": "1,08,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Cemiplimab",
+        "Generic Name": "Cemiplimab",
+        "Jan Aushadhi Price": "16,000",
+        "Branded Price": "1,20,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Brentuximab",
+        "Generic Name": "Brentuximab Vedotin",
+        "Jan Aushadhi Price": "22,000",
+        "Branded Price": "1,65,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Polatuzumab",
+        "Generic Name": "Polatuzumab Vedotin",
+        "Jan Aushadhi Price": "25,000",
+        "Branded Price": "1,87,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Inotuzumab",
+        "Generic Name": "Inotuzumab Ozogamicin",
+        "Jan Aushadhi Price": "28,000",
+        "Branded Price": "2,10,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Gemtuzumab",
+        "Generic Name": "Gemtuzumab Ozogamicin",
+        "Jan Aushadhi Price": "32,000",
+        "Branded Price": "2,40,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Moxetumomab",
+        "Generic Name": "Moxetumomab Pasudotox",
+        "Jan Aushadhi Price": "35,000",
+        "Branded Price": "2,62,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tagraxofusp",
+        "Generic Name": "Tagraxofusp-erzs",
+        "Jan Aushadhi Price": "38,000",
+        "Branded Price": "2,85,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Belantamab",
+        "Generic Name": "Belantamab Mafodotin",
+        "Jan Aushadhi Price": "42,000",
+        "Branded Price": "3,15,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Loncastuximab",
+        "Generic Name": "Loncastuximab Tesirine",
+        "Jan Aushadhi Price": "45,000",
+        "Branded Price": "3,37,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tisotumab",
+        "Generic Name": "Tisotumab Vedotin",
+        "Jan Aushadhi Price": "48,000",
+        "Branded Price": "3,60,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Mirvetuximab",
+        "Generic Name": "Mirvetuximab Soravtansine",
+        "Jan Aushadhi Price": "52,000",
+        "Branded Price": "3,90,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Sacituzumab",
+        "Generic Name": "Sacituzumab Govitecan",
+        "Jan Aushadhi Price": "55,000",
+        "Branded Price": "4,12,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Enfortumab",
+        "Generic Name": "Enfortumab Vedotin",
+        "Jan Aushadhi Price": "58,000",
+        "Branded Price": "4,35,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Fam-trastuzumab",
+        "Generic Name": "Fam-trastuzumab Deruxtecan",
+        "Jan Aushadhi Price": "62,000",
+        "Branded Price": "4,65,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "T-DM1",
+        "Generic Name": "Ado-trastuzumab Emtansine",
+        "Jan Aushadhi Price": "65,000",
+        "Branded Price": "4,87,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Amivantamab",
+        "Generic Name": "Amivantamab-vmjw",
+        "Jan Aushadhi Price": "72,000",
+        "Branded Price": "5,40,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Mosunetuzumab",
+        "Generic Name": "Mosunetuzumab-axgb",
+        "Jan Aushadhi Price": "75,000",
+        "Branded Price": "5,62,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Teclistamab",
+        "Generic Name": "Teclistamab-cqyv",
+        "Jan Aushadhi Price": "78,000",
+        "Branded Price": "5,85,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Ciltacabtagene",
+        "Generic Name": "Ciltacabtagene Autoleucel",
+        "Jan Aushadhi Price": "2,50,000",
+        "Branded Price": "18,75,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Idecabtagene",
+        "Generic Name": "Idecabtagene Vicleucel",
+        "Jan Aushadhi Price": "2,80,000",
+        "Branded Price": "21,00,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Lisocabtagene",
+        "Generic Name": "Lisocabtagene Maraleucel",
+        "Jan Aushadhi Price": "3,00,000",
+        "Branded Price": "22,50,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Brexucabtagene",
+        "Generic Name": "Brexucabtagene Autoleucel",
+        "Jan Aushadhi Price": "3,20,000",
+        "Branded Price": "24,00,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Axicabtagene",
+        "Generic Name": "Axicabtagene Ciloleucel",
+        "Jan Aushadhi Price": "3,50,000",
+        "Branded Price": "26,25,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tisagenlecleucel",
+        "Generic Name": "Tisagenlecleucel",
+        "Jan Aushadhi Price": "3,80,000",
+        "Branded Price": "28,50,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Elivaldogene",
+        "Generic Name": "Elivaldogene Autotemcel",
+        "Jan Aushadhi Price": "4,20,000",
+        "Branded Price": "31,50,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Betibeglogene",
+        "Generic Name": "Betibeglogene Autotemcel",
+        "Jan Aushadhi Price": "4,50,000",
+        "Branded Price": "33,75,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Lentiglobin",
+        "Generic Name": "Lentiglobin for SCD",
+        "Jan Aushadhi Price": "4,80,000",
+        "Branded Price": "36,00,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Onasemnogene",
+        "Generic Name": "Onasemnogene Abeparvovec",
+        "Jan Aushadhi Price": "5,20,000",
+        "Branded Price": "39,00,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Voretigene",
+        "Generic Name": "Voretigene Neparvovec",
+        "Jan Aushadhi Price": "5,50,000",
+        "Branded Price": "41,25,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Alipogene",
+        "Generic Name": "Alipogene Tiparvovec",
+        "Jan Aushadhi Price": "5,80,000",
+        "Branded Price": "43,50,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Talimogene",
+        "Generic Name": "Talimogene Laherparepvec",
+        "Jan Aushadhi Price": "6,20,000",
+        "Branded Price": "46,50,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Aducanumab",
+        "Generic Name": "Aducanumab",
+        "Jan Aushadhi Price": "7,00,000",
+        "Branded Price": "52,50,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Lecanemab",
+        "Generic Name": "Lecanemab",
+        "Jan Aushadhi Price": "7,50,000",
+        "Branded Price": "56,25,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Donanemab",
+        "Generic Name": "Donanemab",
+        "Jan Aushadhi Price": "8,00,000",
+        "Branded Price": "60,00,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Gantenerumab",
+        "Generic Name": "Gantenerumab",
+        "Jan Aushadhi Price": "8,50,000",
+        "Branded Price": "63,75,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Solanezumab",
+        "Generic Name": "Solanezumab",
+        "Jan Aushadhi Price": "9,00,000",
+        "Branded Price": "67,50,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Crenezumab",
+        "Generic Name": "Crenezumab",
+        "Jan Aushadhi Price": "9,50,000",
+        "Branded Price": "71,25,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Keytruda",
+        "Generic Name": "Pembrolizumab",
+        "Jan Aushadhi Price": "9,800",
+        "Branded Price": "73,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Opdivo",
+        "Generic Name": "Nivolumab",
+        "Jan Aushadhi Price": "8,200",
+        "Branded Price": "61,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Herceptin",
+        "Generic Name": "Trastuzumab",
+        "Jan Aushadhi Price": "9,500",
+        "Branded Price": "71,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Avastin",
+        "Generic Name": "Bevacizumab",
+        "Jan Aushadhi Price": "3,800",
+        "Branded Price": "28,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Perjeta",
+        "Generic Name": "Pertuzumab",
+        "Jan Aushadhi Price": "18,000",
+        "Branded Price": "1,35,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Erbitux",
+        "Generic Name": "Cetuximab",
+        "Jan Aushadhi Price": "12,000",
+        "Branded Price": "90,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Vectibix",
+        "Generic Name": "Panitumumab",
+        "Jan Aushadhi Price": "15,000",
+        "Branded Price": "1,12,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tecentriq",
+        "Generic Name": "Atezolizumab",
+        "Jan Aushadhi Price": "11,500",
+        "Branded Price": "86,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Imfinzi",
+        "Generic Name": "Durvalumab",
+        "Jan Aushadhi Price": "13,000",
+        "Branded Price": "97,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Bavencio",
+        "Generic Name": "Avelumab",
+        "Jan Aushadhi Price": "14,500",
+        "Branded Price": "1,08,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Libtayo",
+        "Generic Name": "Cemiplimab",
+        "Jan Aushadhi Price": "16,000",
+        "Branded Price": "1,20,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Polivy",
+        "Generic Name": "Polatuzumab Vedotin",
+        "Jan Aushadhi Price": "25,000",
+        "Branded Price": "1,87,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Mylotarg",
+        "Generic Name": "Gemtuzumab Ozogamicin",
+        "Jan Aushadhi Price": "32,000",
+        "Branded Price": "2,40,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Lumoxiti",
+        "Generic Name": "Moxetumomab Pasudotox",
+        "Jan Aushadhi Price": "35,000",
+        "Branded Price": "2,62,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Elzonris",
+        "Generic Name": "Tagraxofusp-erzs",
+        "Jan Aushadhi Price": "38,000",
+        "Branded Price": "2,85,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Blenrep",
+        "Generic Name": "Belantamab Mafodotin",
+        "Jan Aushadhi Price": "42,000",
+        "Branded Price": "3,15,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Zynlonta",
+        "Generic Name": "Loncastuximab Tesirine",
+        "Jan Aushadhi Price": "45,000",
+        "Branded Price": "3,37,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tivdak",
+        "Generic Name": "Tisotumab Vedotin",
+        "Jan Aushadhi Price": "48,000",
+        "Branded Price": "3,60,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Elahere",
+        "Generic Name": "Mirvetuximab Soravtansine",
+        "Jan Aushadhi Price": "52,000",
+        "Branded Price": "3,90,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Trodelvy",
+        "Generic Name": "Sacituzumab Govitecan",
+        "Jan Aushadhi Price": "55,000",
+        "Branded Price": "4,12,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Padcev",
+        "Generic Name": "Enfortumab Vedotin",
+        "Jan Aushadhi Price": "58,000",
+        "Branded Price": "4,35,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Enhertu",
+        "Generic Name": "Fam-trastuzumab Deruxtecan",
+        "Jan Aushadhi Price": "62,000",
+        "Branded Price": "4,65,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Kadcyla",
+        "Generic Name": "Ado-trastuzumab Emtansine",
+        "Jan Aushadhi Price": "65,000",
+        "Branded Price": "4,87,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Rybrevant",
+        "Generic Name": "Amivantamab-vmjw",
+        "Jan Aushadhi Price": "72,000",
+        "Branded Price": "5,40,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Lunsumio",
+        "Generic Name": "Mosunetuzumab-axgb",
+        "Jan Aushadhi Price": "75,000",
+        "Branded Price": "5,62,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tecvayli",
+        "Generic Name": "Teclistamab-cqyv",
+        "Jan Aushadhi Price": "78,000",
+        "Branded Price": "5,85,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Carvykti",
+        "Generic Name": "Ciltacabtagene Autoleucel",
+        "Jan Aushadhi Price": "2,50,000",
+        "Branded Price": "18,75,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Abecma",
+        "Generic Name": "Idecabtagene Vicleucel",
+        "Jan Aushadhi Price": "2,80,000",
+        "Branded Price": "21,00,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Breyanzi",
+        "Generic Name": "Lisocabtagene Maraleucel",
+        "Jan Aushadhi Price": "3,00,000",
+        "Branded Price": "22,50,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tecartus",
+        "Generic Name": "Brexucabtagene Autoleucel",
+        "Jan Aushadhi Price": "3,20,000",
+        "Branded Price": "24,00,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Yescarta",
+        "Generic Name": "Axicabtagene Ciloleucel",
+        "Jan Aushadhi Price": "3,50,000",
+        "Branded Price": "26,25,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Kymriah",
+        "Generic Name": "Tisagenlecleucel",
+        "Jan Aushadhi Price": "3,80,000",
+        "Branded Price": "28,50,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Skysona",
+        "Generic Name": "Elivaldogene Autotemcel",
+        "Jan Aushadhi Price": "4,20,000",
+        "Branded Price": "31,50,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Zynteglo",
+        "Generic Name": "Betibeglogene Autotemcel",
+        "Jan Aushadhi Price": "4,50,000",
+        "Branded Price": "33,75,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Lyfgenia",
+        "Generic Name": "Lentiglobin for SCD",
+        "Jan Aushadhi Price": "4,80,000",
+        "Branded Price": "36,00,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Zolgensma",
+        "Generic Name": "Onasemnogene Abeparvovec",
+        "Jan Aushadhi Price": "5,20,000",
+        "Branded Price": "39,00,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Luxturna",
+        "Generic Name": "Voretigene Neparvovec",
+        "Jan Aushadhi Price": "5,50,000",
+        "Branded Price": "41,25,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Glybera",
+        "Generic Name": "Alipogene Tiparvovec",
+        "Jan Aushadhi Price": "5,80,000",
+        "Branded Price": "43,50,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Imlygic",
+        "Generic Name": "Talimogene Laherparepvec",
+        "Jan Aushadhi Price": "6,20,000",
+        "Branded Price": "46,50,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Aduhelm",
+        "Generic Name": "Aducanumab",
+        "Jan Aushadhi Price": "7,00,000",
+        "Branded Price": "52,50,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Leqembi",
+        "Generic Name": "Lecanemab",
+        "Jan Aushadhi Price": "7,50,000",
+        "Branded Price": "56,25,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Revlimid",
+        "Generic Name": "Lenalidomide",
+        "Jan Aushadhi Price": "2,200",
+        "Branded Price": "16,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Pomalyst",
+        "Generic Name": "Pomalidomide",
+        "Jan Aushadhi Price": "3,500",
+        "Branded Price": "26,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Darzalex",
+        "Generic Name": "Daratumumab",
+        "Jan Aushadhi Price": "12,500",
+        "Branded Price": "93,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Sarclisa",
+        "Generic Name": "Isatuximab",
+        "Jan Aushadhi Price": "15,000",
+        "Branded Price": "1,12,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Empliciti",
+        "Generic Name": "Elotuzumab",
+        "Jan Aushadhi Price": "18,000",
+        "Branded Price": "1,35,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Xpovio",
+        "Generic Name": "Selinexor",
+        "Jan Aushadhi Price": "22,000",
+        "Branded Price": "1,65,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Blincyto",
+        "Generic Name": "Blinatumomab",
+        "Jan Aushadhi Price": "85,000",
+        "Branded Price": "6,37,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Besremi",
+        "Generic Name": "Ropeginterferon alfa-2b",
+        "Jan Aushadhi Price": "15,800",
+        "Branded Price": "1,18,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Jakafi",
+        "Generic Name": "Ruxolitinib",
+        "Jan Aushadhi Price": "8,500",
+        "Branded Price": "63,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Inrebic",
+        "Generic Name": "Fedratinib",
+        "Jan Aushadhi Price": "28,000",
+        "Branded Price": "2,10,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Vonjo",
+        "Generic Name": "Pacritinib",
+        "Jan Aushadhi Price": "32,000",
+        "Branded Price": "2,40,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Reblozyl",
+        "Generic Name": "Luspatercept",
+        "Jan Aushadhi Price": "45,000",
+        "Branded Price": "3,37,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Evrysdi",
+        "Generic Name": "Risdiplam",
+        "Jan Aushadhi Price": "65,000",
+        "Branded Price": "4,87,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Spinraza",
+        "Generic Name": "Nusinersen",
+        "Jan Aushadhi Price": "1,25,000",
+        "Branded Price": "9,37,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Zolgensma",
+        "Generic Name": "Onasemnogene abeparvovec",
+        "Jan Aushadhi Price": "5,20,000",
+        "Branded Price": "39,00,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Trikafta",
+        "Generic Name": "Elexacaftor/tezacaftor/ivacaftor",
+        "Jan Aushadhi Price": "85,000",
+        "Branded Price": "6,37,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Kalydeco",
+        "Generic Name": "Ivacaftor",
+        "Jan Aushadhi Price": "65,000",
+        "Branded Price": "4,87,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Orkambi",
+        "Generic Name": "Lumacaftor/ivacaftor",
+        "Jan Aushadhi Price": "72,000",
+        "Branded Price": "5,40,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Symdeko",
+        "Generic Name": "Tezacaftor/ivacaftor",
+        "Jan Aushadhi Price": "68,000",
+        "Branded Price": "5,10,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Pulmozyme",
+        "Generic Name": "Dornase alfa",
+        "Jan Aushadhi Price": "3,200",
+        "Branded Price": "24,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tobi Podhaler",
+        "Generic Name": "Tobramycin inhalation",
+        "Jan Aushadhi Price": "4,500",
+        "Branded Price": "33,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Cayston",
+        "Generic Name": "Aztreonam inhalation",
+        "Jan Aushadhi Price": "8,200",
+        "Branded Price": "61,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Kaftrio",
+        "Generic Name": "Elexacaftor/tezacaftor/ivacaftor",
+        "Jan Aushadhi Price": "88,000",
+        "Branded Price": "6,60,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Symkevi",
+        "Generic Name": "Tezacaftor/ivacaftor",
+        "Jan Aushadhi Price": "70,000",
+        "Branded Price": "5,25,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Ivozall",
+        "Generic Name": "Ivacaftor",
+        "Jan Aushadhi Price": "62,000",
+        "Branded Price": "4,65,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Voxzogo",
+        "Generic Name": "Vosoritide",
+        "Jan Aushadhi Price": "1,20,000",
+        "Branded Price": "9,00,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Brineura",
+        "Generic Name": "Cerliponase alfa",
+        "Jan Aushadhi Price": "4,50,000",
+        "Branded Price": "33,75,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Myozyme",
+        "Generic Name": "Alglucosidase alfa",
+        "Jan Aushadhi Price": "2,80,000",
+        "Branded Price": "21,00,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Lumizyme",
+        "Generic Name": "Alglucosidase alfa",
+        "Jan Aushadhi Price": "2,90,000",
+        "Branded Price": "21,75,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Aldurazyme",
+        "Generic Name": "Laronidase",
+        "Jan Aushadhi Price": "3,20,000",
+        "Branded Price": "24,00,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Elaprase",
+        "Generic Name": "Idursulfase",
+        "Jan Aushadhi Price": "3,80,000",
+        "Branded Price": "28,50,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Vimizim",
+        "Generic Name": "Elosulfase alfa",
+        "Jan Aushadhi Price": "4,20,000",
+        "Branded Price": "31,50,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Naglazyme",
+        "Generic Name": "Galsulfase",
+        "Jan Aushadhi Price": "4,50,000",
+        "Branded Price": "33,75,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Kanuma",
+        "Generic Name": "Sebelipase alfa",
+        "Jan Aushadhi Price": "4,80,000",
+        "Branded Price": "36,00,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Mepsevii",
+        "Generic Name": "Vestronidase alfa",
+        "Jan Aushadhi Price": "5,20,000",
+        "Branded Price": "39,00,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Palynziq",
+        "Generic Name": "Pegvaliase",
+        "Jan Aushadhi Price": "5,80,000",
+        "Branded Price": "43,50,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Crysvita",
+        "Generic Name": "Burosumab",
+        "Jan Aushadhi Price": "6,50,000",
+        "Branded Price": "48,75,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Takhzyro",
+        "Generic Name": "Lanadelumab",
+        "Jan Aushadhi Price": "85,000",
+        "Branded Price": "6,37,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Ruconest",
+        "Generic Name": "Conestat alfa",
+        "Jan Aushadhi Price": "45,000",
+        "Branded Price": "3,37,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Haegarda",
+        "Generic Name": "C1 esterase inhibitor",
+        "Jan Aushadhi Price": "95,000",
+        "Branded Price": "7,12,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Cinryze",
+        "Generic Name": "C1 esterase inhibitor",
+        "Jan Aushadhi Price": "88,000",
+        "Branded Price": "6,60,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Berinert",
+        "Generic Name": "C1 esterase inhibitor",
+        "Jan Aushadhi Price": "92,000",
+        "Branded Price": "6,90,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Orladeyo",
+        "Generic Name": "Berotralstat",
+        "Jan Aushadhi Price": "65,000",
+        "Branded Price": "4,87,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Firazyr",
+        "Generic Name": "Icatibant",
+        "Jan Aushadhi Price": "28,000",
+        "Branded Price": "2,10,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Kalbitor",
+        "Generic Name": "Ecallantide",
+        "Jan Aushadhi Price": "45,000",
+        "Branded Price": "3,37,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tretten",
+        "Generic Name": "Coagulation Factor XIII",
+        "Jan Aushadhi Price": "1,20,000",
+        "Branded Price": "9,00,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "NovoThirteen",
+        "Generic Name": "Coagulation Factor XIII",
+        "Jan Aushadhi Price": "1,25,000",
+        "Branded Price": "9,37,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Xolair",
+        "Generic Name": "Omalizumab",
+        "Jan Aushadhi Price": "6,800",
+        "Branded Price": "51,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Dupixent",
+        "Generic Name": "Dupilumab",
+        "Jan Aushadhi Price": "7,500",
+        "Branded Price": "56,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Fasenra",
+        "Generic Name": "Benralizumab",
+        "Jan Aushadhi Price": "7,800",
+        "Branded Price": "58,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Nucala",
+        "Generic Name": "Mepolizumab",
+        "Jan Aushadhi Price": "7,200",
+        "Branded Price": "54,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Cinqair",
+        "Generic Name": "Reslizumab",
+        "Jan Aushadhi Price": "7,500",
+        "Branded Price": "56,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tezspire",
+        "Generic Name": "Tezepelumab",
+        "Jan Aushadhi Price": "9,000",
+        "Branded Price": "67,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Entyvio",
+        "Generic Name": "Vedolizumab",
+        "Jan Aushadhi Price": "8,500",
+        "Branded Price": "63,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Stelara",
+        "Generic Name": "Ustekinumab",
+        "Jan Aushadhi Price": "7,800",
+        "Branded Price": "58,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tremfya",
+        "Generic Name": "Guselkumab",
+        "Jan Aushadhi Price": "8,000",
+        "Branded Price": "60,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Skyrizi",
+        "Generic Name": "Risankizumab",
+        "Jan Aushadhi Price": "9,500",
+        "Branded Price": "71,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Ilumya",
+        "Generic Name": "Tildrakizumab",
+        "Jan Aushadhi Price": "8,200",
+        "Branded Price": "61,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Cosentyx",
+        "Generic Name": "Secukinumab",
+        "Jan Aushadhi Price": "8,500",
+        "Branded Price": "64,000",
+        "Savings (%)": "86.72%"
+    },
+    {
+        "Branded Name": "Taltz",
+        "Generic Name": "Ixekizumab",
+        "Jan Aushadhi Price": "9,200",
+        "Branded Price": "69,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Simponi",
+        "Generic Name": "Golimumab",
+        "Jan Aushadhi Price": "6,200",
+        "Branded Price": "46,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Cimzia",
+        "Generic Name": "Certolizumab pegol",
+        "Jan Aushadhi Price": "7,000",
+        "Branded Price": "52,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Actemra",
+        "Generic Name": "Tocilizumab",
+        "Jan Aushadhi Price": "7,800",
+        "Branded Price": "58,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Kevzara",
+        "Generic Name": "Sarilumab",
+        "Jan Aushadhi Price": "8,200",
+        "Branded Price": "61,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Sylvant",
+        "Generic Name": "Siltuximab",
+        "Jan Aushadhi Price": "9,500",
+        "Branded Price": "71,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Ilaris",
+        "Generic Name": "Canakinumab",
+        "Jan Aushadhi Price": "12,000",
+        "Branded Price": "90,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Arcalyst",
+        "Generic Name": "Rilonacept",
+        "Jan Aushadhi Price": "15,000",
+        "Branded Price": "1,12,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Gamifant",
+        "Generic Name": "Emapalumab",
+        "Jan Aushadhi Price": "85,000",
+        "Branded Price": "6,37,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Rituxan",
+        "Generic Name": "Rituximab",
+        "Jan Aushadhi Price": "5,500",
+        "Branded Price": "41,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Gazyva",
+        "Generic Name": "Obinutuzumab",
+        "Jan Aushadhi Price": "8,000",
+        "Branded Price": "60,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Lemtrada",
+        "Generic Name": "Alemtuzumab",
+        "Jan Aushadhi Price": "65,000",
+        "Branded Price": "4,87,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Campath",
+        "Generic Name": "Alemtuzumab",
+        "Jan Aushadhi Price": "62,000",
+        "Branded Price": "4,65,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Ultomiris",
+        "Generic Name": "Ravulizumab",
+        "Jan Aushadhi Price": "13,000",
+        "Branded Price": "97,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Empaveli",
+        "Generic Name": "Pegcetacoplan",
+        "Jan Aushadhi Price": "18,000",
+        "Branded Price": "1,35,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Enjaymo",
+        "Generic Name": "Sutimlimab",
+        "Jan Aushadhi Price": "25,000",
+        "Branded Price": "1,87,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tysabri",
+        "Generic Name": "Natalizumab",
+        "Jan Aushadhi Price": "9,200",
+        "Branded Price": "69,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Ocrevus",
+        "Generic Name": "Ocrelizumab",
+        "Jan Aushadhi Price": "15,000",
+        "Branded Price": "1,12,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Kesimpta",
+        "Generic Name": "Ofatumumab",
+        "Jan Aushadhi Price": "12,500",
+        "Branded Price": "93,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Mayzent",
+        "Generic Name": "Siponimod",
+        "Jan Aushadhi Price": "8,500",
+        "Branded Price": "63,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Zeposia",
+        "Generic Name": "Ozanimod",
+        "Jan Aushadhi Price": "7,200",
+        "Branded Price": "54,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Ponvory",
+        "Generic Name": "Ponesimod",
+        "Jan Aushadhi Price": "8,800",
+        "Branded Price": "66,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tecfidera",
+        "Generic Name": "Dimethyl fumarate",
+        "Jan Aushadhi Price": "6,500",
+        "Branded Price": "48,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Vumerity",
+        "Generic Name": "Diroximel fumarate",
+        "Jan Aushadhi Price": "7,200",
+        "Branded Price": "54,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Aubagio",
+        "Generic Name": "Teriflunomide",
+        "Jan Aushadhi Price": "5,800",
+        "Branded Price": "43,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Mavenclad",
+        "Generic Name": "Cladribine",
+        "Jan Aushadhi Price": "45,000",
+        "Branded Price": "3,37,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Rebif",
+        "Generic Name": "Interferon beta-1a",
+        "Jan Aushadhi Price": "8,200",
+        "Branded Price": "61,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Avonex",
+        "Generic Name": "Interferon beta-1a",
+        "Jan Aushadhi Price": "9,500",
+        "Branded Price": "71,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Plegridy",
+        "Generic Name": "Peginterferon beta-1a",
+        "Jan Aushadhi Price": "12,000",
+        "Branded Price": "90,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Extavia",
+        "Generic Name": "Interferon beta-1b",
+        "Jan Aushadhi Price": "7,800",
+        "Branded Price": "58,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Betaseron",
+        "Generic Name": "Interferon beta-1b",
+        "Jan Aushadhi Price": "8,500",
+        "Branded Price": "63,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Copaxone",
+        "Generic Name": "Glatiramer acetate",
+        "Jan Aushadhi Price": "6,200",
+        "Branded Price": "46,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Glatopa",
+        "Generic Name": "Glatiramer acetate",
+        "Jan Aushadhi Price": "5,800",
+        "Branded Price": "43,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Ampyra",
+        "Generic Name": "Dalfampridine",
+        "Jan Aushadhi Price": "4,500",
+        "Branded Price": "33,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Fampyra",
+        "Generic Name": "Fampridine",
+        "Jan Aushadhi Price": "5,200",
+        "Branded Price": "39,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Zinbryta",
+        "Generic Name": "Daclizumab",
+        "Jan Aushadhi Price": "8,500",
+        "Branded Price": "63,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Humira",
+        "Generic Name": "Adalimumab",
+        "Jan Aushadhi Price": "4,800",
+        "Branded Price": "36,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Enbrel",
+        "Generic Name": "Etanercept",
+        "Jan Aushadhi Price": "5,200",
+        "Branded Price": "39,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Remicade",
+        "Generic Name": "Infliximab",
+        "Jan Aushadhi Price": "5,500",
+        "Branded Price": "41,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Orencia",
+        "Generic Name": "Abatacept",
+        "Jan Aushadhi Price": "8,500",
+        "Branded Price": "63,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Kineret",
+        "Generic Name": "Anakinra",
+        "Jan Aushadhi Price": "9,200",
+        "Branded Price": "69,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Siliq",
+        "Generic Name": "Brodalumab",
+        "Jan Aushadhi Price": "10,500",
+        "Branded Price": "78,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Prolia",
+        "Generic Name": "Denosumab",
+        "Jan Aushadhi Price": "8,200",
+        "Branded Price": "61,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Xgeva",
+        "Generic Name": "Denosumab",
+        "Jan Aushadhi Price": "9,500",
+        "Branded Price": "71,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Evenity",
+        "Generic Name": "Romosozumab",
+        "Jan Aushadhi Price": "12,000",
+        "Branded Price": "90,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Forteo",
+        "Generic Name": "Teriparatide",
+        "Jan Aushadhi Price": "6,500",
+        "Branded Price": "48,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tymlos",
+        "Generic Name": "Abaloparatide",
+        "Jan Aushadhi Price": "8,500",
+        "Branded Price": "63,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Reclast",
+        "Generic Name": "Zoledronic acid",
+        "Jan Aushadhi Price": "3,200",
+        "Branded Price": "24,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Zometa",
+        "Generic Name": "Zoledronic acid",
+        "Jan Aushadhi Price": "3,500",
+        "Branded Price": "26,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Aclasta",
+        "Generic Name": "Zoledronic acid",
+        "Jan Aushadhi Price": "3,800",
+        "Branded Price": "28,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Boniva",
+        "Generic Name": "Ibandronate",
+        "Jan Aushadhi Price": "2,500",
+        "Branded Price": "18,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Fosamax",
+        "Generic Name": "Alendronate",
+        "Jan Aushadhi Price": "1,200",
+        "Branded Price": "9,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Actonel",
+        "Generic Name": "Risedronate",
+        "Jan Aushadhi Price": "1,500",
+        "Branded Price": "11,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Atelvia",
+        "Generic Name": "Risedronate",
+        "Jan Aushadhi Price": "1,800",
+        "Branded Price": "13,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Evista",
+        "Generic Name": "Raloxifene",
+        "Jan Aushadhi Price": "2,200",
+        "Branded Price": "16,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Miacalcin",
+        "Generic Name": "Calcitonin",
+        "Jan Aushadhi Price": "3,500",
+        "Branded Price": "26,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Sensipar",
+        "Generic Name": "Cinacalcet",
+        "Jan Aushadhi Price": "4,500",
+        "Branded Price": "33,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Parsabiv",
+        "Generic Name": "Etelcalcetide",
+        "Jan Aushadhi Price": "6,500",
+        "Branded Price": "48,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Rayaldee",
+        "Generic Name": "Calcifediol",
+        "Jan Aushadhi Price": "5,200",
+        "Branded Price": "39,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Zemplar",
+        "Generic Name": "Paricalcitol",
+        "Jan Aushadhi Price": "5,500",
+        "Branded Price": "41,250",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Rocaltrol",
+        "Generic Name": "Calcitriol",
+        "Jan Aushadhi Price": "3,200",
+        "Branded Price": "24,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "One-Alpha",
+        "Generic Name": "Alfacalcidol",
+        "Jan Aushadhi Price": "2,800",
+        "Branded Price": "21,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Lantus",
+        "Generic Name": "Insulin Glargine",
+        "Jan Aushadhi Price": "250",
+        "Branded Price": "1,800",
+        "Savings (%)": "86.11%"
+    },
+    {
+        "Branded Name": "Novorapid",
+        "Generic Name": "Insulin Aspart",
+        "Jan Aushadhi Price": "200",
+        "Branded Price": "1,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Toujeo",
+        "Generic Name": "Insulin Glargine U300",
+        "Jan Aushadhi Price": "300",
+        "Branded Price": "2,200",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Tresiba",
+        "Generic Name": "Insulin Degludec",
+        "Jan Aushadhi Price": "280",
+        "Branded Price": "2,100",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Levemir",
+        "Generic Name": "Insulin Detemir",
+        "Jan Aushadhi Price": "220",
+        "Branded Price": "1,650",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Humalog",
+        "Generic Name": "Insulin Lispro",
+        "Jan Aushadhi Price": "180",
+        "Branded Price": "1,350",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Apidra",
+        "Generic Name": "Insulin Glulisine",
+        "Jan Aushadhi Price": "190",
+        "Branded Price": "1,425",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Ryzodeg",
+        "Generic Name": "Insulin Degludec/Aspart",
+        "Jan Aushadhi Price": "320",
+        "Branded Price": "2,400",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Xultophy",
+        "Generic Name": "Insulin Degludec/Liraglutide",
+        "Jan Aushadhi Price": "450",
+        "Branded Price": "3,375",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Soliqua",
+        "Generic Name": "Insulin Glargine/Lixisenatide",
+        "Jan Aushadhi Price": "420",
+        "Branded Price": "3,150",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Onglyza",
+        "Generic Name": "Saxagliptin",
+        "Jan Aushadhi Price": "18",
+        "Branded Price": "150",
+        "Savings (%)": "88.00%"
+    },
+    {
+        "Branded Name": "Tradjenta",
+        "Generic Name": "Linagliptin",
+        "Jan Aushadhi Price": "16",
+        "Branded Price": "130",
+        "Savings (%)": "87.69%"
+    },
+    {
+        "Branded Name": "Jardiance",
+        "Generic Name": "Empagliflozin",
+        "Jan Aushadhi Price": "25",
+        "Branded Price": "200",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Forxiga",
+        "Generic Name": "Dapagliflozin",
+        "Jan Aushadhi Price": "22",
+        "Branded Price": "180",
+        "Savings (%)": "87.78%"
+    },
+    {
+        "Branded Name": "Invokana",
+        "Generic Name": "Canagliflozin",
+        "Jan Aushadhi Price": "28",
+        "Branded Price": "230",
+        "Savings (%)": "87.83%"
+    },
+    {
+        "Branded Name": "Steglatro",
+        "Generic Name": "Ertugliflozin",
+        "Jan Aushadhi Price": "24",
+        "Branded Price": "190",
+        "Savings (%)": "87.37%"
+    },
+    {
+        "Branded Name": "Victoza",
+        "Generic Name": "Liraglutide",
+        "Jan Aushadhi Price": "350",
+        "Branded Price": "2,800",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Ozempic",
+        "Generic Name": "Semaglutide",
+        "Jan Aushadhi Price": "420",
+        "Branded Price": "3,300",
+        "Savings (%)": "87.27%"
+    },
+    {
+        "Branded Name": "Trulicity",
+        "Generic Name": "Dulaglutide",
+        "Jan Aushadhi Price": "380",
+        "Branded Price": "3,000",
+        "Savings (%)": "87.33%"
+    },
+    {
+        "Branded Name": "Byetta",
+        "Generic Name": "Exenatide",
+        "Jan Aushadhi Price": "280",
+        "Branded Price": "2,200",
+        "Savings (%)": "87.27%"
+    },
+    {
+        "Branded Name": "Bydureon",
+        "Generic Name": "Exenatide ER",
+        "Jan Aushadhi Price": "320",
+        "Branded Price": "2,500",
+        "Savings (%)": "87.20%"
+    },
+    {
+        "Branded Name": "Adlyxin",
+        "Generic Name": "Lixisenatide",
+        "Jan Aushadhi Price": "300",
+        "Branded Price": "2,350",
+        "Savings (%)": "87.23%"
+    },
+    {
+        "Branded Name": "Glucophage",
+        "Generic Name": "Metformin",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "35",
+        "Savings (%)": "85.71%"
+    },
+    {
+        "Branded Name": "Dianorm",
+        "Generic Name": "Gliclazide",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "65",
+        "Savings (%)": "84.62%"
+    },
+    {
+        "Branded Name": "Daonil",
+        "Generic Name": "Glibenclamide",
+        "Jan Aushadhi Price": "3",
+        "Branded Price": "20",
+        "Savings (%)": "85.00%"
+    },
+    {
+        "Branded Name": "Euglucon",
+        "Generic Name": "Glibenclamide",
+        "Jan Aushadhi Price": "3",
+        "Branded Price": "22",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Actos",
+        "Generic Name": "Pioglitazone",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "60",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Pioz",
+        "Generic Name": "Pioglitazone",
+        "Jan Aushadhi Price": "9",
+        "Branded Price": "65",
+        "Savings (%)": "86.15%"
+    },
+    {
+        "Branded Name": "Galvus Met",
+        "Generic Name": "Vildagliptin+Metformin",
+        "Jan Aushadhi Price": "20",
+        "Branded Price": "135",
+        "Savings (%)": "85.19%"
+    },
+    {
+        "Branded Name": "Janumet",
+        "Generic Name": "Sitagliptin+Metformin",
+        "Jan Aushadhi Price": "25",
+        "Branded Price": "180",
+        "Savings (%)": "86.11%"
+    },
+    {
+        "Branded Name": "Kombiglyze",
+        "Generic Name": "Saxagliptin+Metformin",
+        "Jan Aushadhi Price": "22",
+        "Branded Price": "160",
+        "Savings (%)": "86.25%"
+    },
+    {
+        "Branded Name": "Jentadueto",
+        "Generic Name": "Linagliptin+Metformin",
+        "Jan Aushadhi Price": "24",
+        "Branded Price": "170",
+        "Savings (%)": "85.88%"
+    },
+    {
+        "Branded Name": "Synjardy",
+        "Generic Name": "Empagliflozin+Metformin",
+        "Jan Aushadhi Price": "30",
+        "Branded Price": "220",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Xigduo",
+        "Generic Name": "Dapagliflozin+Metformin",
+        "Jan Aushadhi Price": "28",
+        "Branded Price": "200",
+        "Savings (%)": "86.00%"
+    },
+    {
+        "Branded Name": "Vokanamet",
+        "Generic Name": "Canagliflozin+Metformin",
+        "Jan Aushadhi Price": "32",
+        "Branded Price": "240",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Segluromet",
+        "Generic Name": "Ertugliflozin+Metformin",
+        "Jan Aushadhi Price": "26",
+        "Branded Price": "190",
+        "Savings (%)": "86.32%"
+    },
+    {
+        "Branded Name": "Glucovance",
+        "Generic Name": "Glibenclamide+Metformin",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "55",
+        "Savings (%)": "85.45%"
+    },
+    {
+        "Branded Name": "Gluconorm",
+        "Generic Name": "Gliclazide+Metformin",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "80",
+        "Savings (%)": "85.00%"
+    },
+    {
+        "Branded Name": "Amaryl M",
+        "Generic Name": "Glimepiride+Metformin",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "70",
+        "Savings (%)": "85.71%"
+    },
+    {
+        "Branded Name": "Pioz M",
+        "Generic Name": "Pioglitazone+Metformin",
+        "Jan Aushadhi Price": "15",
+        "Branded Price": "100",
+        "Savings (%)": "85.00%"
+    },
+    {
+        "Branded Name": "Trijardy",
+        "Generic Name": "Empagliflozin+Linagliptin+Metformin",
+        "Jan Aushadhi Price": "45",
+        "Branded Price": "320",
+        "Savings (%)": "85.94%"
+    },
+    {
+        "Branded Name": "Glyxambi",
+        "Generic Name": "Empagliflozin+Linagliptin",
+        "Jan Aushadhi Price": "40",
+        "Branded Price": "300",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Qtern",
+        "Generic Name": "Saxagliptin+Dapagliflozin",
+        "Jan Aushadhi Price": "38",
+        "Branded Price": "280",
+        "Savings (%)": "86.43%"
+    },
+    {
+        "Branded Name": "Steglujan",
+        "Generic Name": "Ertugliflozin+Sitagliptin",
+        "Jan Aushadhi Price": "42",
+        "Branded Price": "310",
+        "Savings (%)": "86.45%"
+    },
+    {
+        "Branded Name": "Velmetia",
+        "Generic Name": "Metformin+Vildagliptin",
+        "Jan Aushadhi Price": "18",
+        "Branded Price": "120",
+        "Savings (%)": "85.00%"
+    },
+    {
+        "Branded Name": "Jalra",
+        "Generic Name": "Vildagliptin",
+        "Jan Aushadhi Price": "15",
+        "Branded Price": "110",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Crestor",
+        "Generic Name": "Rosuvastatin",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "120",
+        "Savings (%)": "91.67%"
+    },
+    {
+        "Branded Name": "Ezetrol",
+        "Generic Name": "Ezetimibe",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "65",
+        "Savings (%)": "87.69%"
+    },
+    {
+        "Branded Name": "Vytorin",
+        "Generic Name": "Ezetimibe+Simvastatin",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "95",
+        "Savings (%)": "87.37%"
+    },
+    {
+        "Branded Name": "Caduet",
+        "Generic Name": "Amlodipine+Atorvastatin",
+        "Jan Aushadhi Price": "15",
+        "Branded Price": "125",
+        "Savings (%)": "88.00%"
+    },
+    {
+        "Branded Name": "Livalo",
+        "Generic Name": "Pitavastatin",
+        "Jan Aushadhi Price": "14",
+        "Branded Price": "110",
+        "Savings (%)": "87.27%"
+    },
+    {
+        "Branded Name": "Lescol",
+        "Generic Name": "Fluvastatin",
+        "Jan Aushadhi Price": "9",
+        "Branded Price": "75",
+        "Savings (%)": "88.00%"
+    },
+    {
+        "Branded Name": "Pravachol",
+        "Generic Name": "Pravastatin",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "70",
+        "Savings (%)": "88.57%"
+    },
+    {
+        "Branded Name": "Mevacor",
+        "Generic Name": "Lovastatin",
+        "Jan Aushadhi Price": "7",
+        "Branded Price": "60",
+        "Savings (%)": "88.33%"
+    },
+    {
+        "Branded Name": "Norvasc",
+        "Generic Name": "Amlodipine",
+        "Jan Aushadhi Price": "3.5",
+        "Branded Price": "18",
+        "Savings (%)": "80.56%"
+    },
+    {
+        "Branded Name": "Tenormin",
+        "Generic Name": "Atenolol",
+        "Jan Aushadhi Price": "6.6",
+        "Branded Price": "33",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Concor",
+        "Generic Name": "Bisoprolol",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "35",
+        "Savings (%)": "85.71%"
+    },
+    {
+        "Branded Name": "Cardivas",
+        "Generic Name": "Carvedilol",
+        "Jan Aushadhi Price": "7",
+        "Branded Price": "55",
+        "Savings (%)": "87.27%"
+    },
+    {
+        "Branded Name": "Dilzem",
+        "Generic Name": "Diltiazem",
+        "Jan Aushadhi Price": "17",
+        "Branded Price": "85",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Verelan",
+        "Generic Name": "Verapamil",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "30",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Plavix",
+        "Generic Name": "Clopidogrel",
+        "Jan Aushadhi Price": "18.7",
+        "Branded Price": "93.5",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Brilinta",
+        "Generic Name": "Ticagrelor",
+        "Jan Aushadhi Price": "45",
+        "Branded Price": "320",
+        "Savings (%)": "85.94%"
+    },
+    {
+        "Branded Name": "Effient",
+        "Generic Name": "Prasugrel",
+        "Jan Aushadhi Price": "55",
+        "Branded Price": "400",
+        "Savings (%)": "86.25%"
+    },
+    {
+        "Branded Name": "Coumadin",
+        "Generic Name": "Warfarin",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "25",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Eliquis",
+        "Generic Name": "Apixaban",
+        "Jan Aushadhi Price": "65",
+        "Branded Price": "480",
+        "Savings (%)": "86.46%"
+    },
+    {
+        "Branded Name": "Pradaxa",
+        "Generic Name": "Dabigatran",
+        "Jan Aushadhi Price": "75",
+        "Branded Price": "550",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Lixiana",
+        "Generic Name": "Edoxaban",
+        "Jan Aushadhi Price": "85",
+        "Branded Price": "620",
+        "Savings (%)": "86.29%"
+    },
+    {
+        "Branded Name": "Micardis",
+        "Generic Name": "Telmisartan",
+        "Jan Aushadhi Price": "5.5",
+        "Branded Price": "42",
+        "Savings (%)": "86.90%"
+    },
+    {
+        "Branded Name": "Diovan",
+        "Generic Name": "Valsartan",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "65",
+        "Savings (%)": "87.69%"
+    },
+    {
+        "Branded Name": "Cozaar",
+        "Generic Name": "Losartan",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "30",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Benicar",
+        "Generic Name": "Olmesartan",
+        "Jan Aushadhi Price": "14",
+        "Branded Price": "70",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Atacand",
+        "Generic Name": "Candesartan",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "90",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Avapro",
+        "Generic Name": "Irbesartan",
+        "Jan Aushadhi Price": "25",
+        "Branded Price": "125",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Prinivil",
+        "Generic Name": "Lisinopril",
+        "Jan Aushadhi Price": "7",
+        "Branded Price": "35",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Vasotec",
+        "Generic Name": "Enalapril",
+        "Jan Aushadhi Price": "7",
+        "Branded Price": "35",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Monopril",
+        "Generic Name": "Fosinopril",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "75",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Accupril",
+        "Generic Name": "Quinapril",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "90",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Altace",
+        "Generic Name": "Ramipril",
+        "Jan Aushadhi Price": "7",
+        "Branded Price": "35",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Lotrel",
+        "Generic Name": "Amlodipine+Benazepril",
+        "Jan Aushadhi Price": "18",
+        "Branded Price": "140",
+        "Savings (%)": "87.14%"
+    },
+    {
+        "Branded Name": "Tekturna",
+        "Generic Name": "Aliskiren",
+        "Jan Aushadhi Price": "35",
+        "Branded Price": "250",
+        "Savings (%)": "86.00%"
+    },
+    {
+        "Branded Name": "Inspra",
+        "Generic Name": "Eplerenone",
+        "Jan Aushadhi Price": "55",
+        "Branded Price": "400",
+        "Savings (%)": "86.25%"
+    },
+    {
+        "Branded Name": "Aldactone",
+        "Generic Name": "Spironolactone",
+        "Jan Aushadhi Price": "4",
+        "Branded Price": "25",
+        "Savings (%)": "84.00%"
+    },
+    {
+        "Branded Name": "Midamor",
+        "Generic Name": "Amiloride",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "45",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Demadex",
+        "Generic Name": "Torsemide",
+        "Jan Aushadhi Price": "3",
+        "Branded Price": "22",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Bumex",
+        "Generic Name": "Bumetanide",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "38",
+        "Savings (%)": "86.84%"
+    },
+    {
+        "Branded Name": "Zaroxolyn",
+        "Generic Name": "Metolazone",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "60",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Hygroton",
+        "Generic Name": "Chlorthalidone",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "45",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Microzide",
+        "Generic Name": "Hydrochlorothiazide",
+        "Jan Aushadhi Price": "3",
+        "Branded Price": "20",
+        "Savings (%)": "85.00%"
+    },
+    {
+        "Branded Name": "Lozol",
+        "Generic Name": "Indapamide",
+        "Jan Aushadhi Price": "7",
+        "Branded Price": "50",
+        "Savings (%)": "86.00%"
+    },
+    {
+        "Branded Name": "Diuril",
+        "Generic Name": "Chlorothiazide",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "35",
+        "Savings (%)": "85.71%"
+    },
+    {
+        "Branded Name": "Esidrix",
+        "Generic Name": "Hydrochlorothiazide",
+        "Jan Aushadhi Price": "3",
+        "Branded Price": "22",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Moduretic",
+        "Generic Name": "Amiloride+Hydrochlorothiazide",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "75",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Nexium",
+        "Generic Name": "Esomeprazole",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "55",
+        "Savings (%)": "81.82%"
+    },
+    {
+        "Branded Name": "Sompraz",
+        "Generic Name": "Esomeprazole",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "60",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Rablet",
+        "Generic Name": "Rabeprazole",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "55",
+        "Savings (%)": "85.45%"
+    },
+    {
+        "Branded Name": "Omez",
+        "Generic Name": "Omeprazole",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "30",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Lanzol",
+        "Generic Name": "Lansoprazole",
+        "Jan Aushadhi Price": "7",
+        "Branded Price": "40",
+        "Savings (%)": "82.50%"
+    },
+    {
+        "Branded Name": "Histac",
+        "Generic Name": "Famotidine",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "25",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Motilium",
+        "Generic Name": "Domperidone",
+        "Jan Aushadhi Price": "2.5",
+        "Branded Price": "20",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Perinorm",
+        "Generic Name": "Metoclopramide",
+        "Jan Aushadhi Price": "3",
+        "Branded Price": "25",
+        "Savings (%)": "88.00%"
+    },
+    {
+        "Branded Name": "Syndopa",
+        "Generic Name": "Levodopa+Carbidopa",
+        "Jan Aushadhi Price": "15",
+        "Branded Price": "120",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Ropark",
+        "Generic Name": "Ropinirole",
+        "Jan Aushadhi Price": "18",
+        "Branded Price": "150",
+        "Savings (%)": "88.00%"
+    },
+    {
+        "Branded Name": "Pacitane",
+        "Generic Name": "Trihexyphenidyl",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "45",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tegretol",
+        "Generic Name": "Carbamazepine",
+        "Jan Aushadhi Price": "20",
+        "Branded Price": "180",
+        "Savings (%)": "88.89%"
+    },
+    {
+        "Branded Name": "Frisium",
+        "Generic Name": "Clobazam",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "95",
+        "Savings (%)": "87.37%"
+    },
+    {
+        "Branded Name": "Liofen",
+        "Generic Name": "Baclofen",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "80",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Myospaz",
+        "Generic Name": "Chlorzoxazone",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "65",
+        "Savings (%)": "87.69%"
+    },
+    {
+        "Branded Name": "Zerodol SP",
+        "Generic Name": "Aceclofenac+Paracetamol+Serratiopeptidase",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "85",
+        "Savings (%)": "85.88%"
+    },
+    {
+        "Branded Name": "Voveran",
+        "Generic Name": "Diclofenac",
+        "Jan Aushadhi Price": "4",
+        "Branded Price": "26",
+        "Savings (%)": "84.62%"
+    },
+    {
+        "Branded Name": "Combiflam",
+        "Generic Name": "Ibuprofen+Paracetamol",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "28",
+        "Savings (%)": "78.57%"
+    },
+    {
+        "Branded Name": "Flexon",
+        "Generic Name": "Ibuprofen+Paracetamol",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "25",
+        "Savings (%)": "80.00%"
+    },
+    {
+        "Branded Name": "Sumo",
+        "Generic Name": "Nimesulide+Paracetamol",
+        "Jan Aushadhi Price": "6.5",
+        "Branded Price": "35",
+        "Savings (%)": "81.43%"
+    },
+    {
+        "Branded Name": "Nimulid",
+        "Generic Name": "Nimesulide",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "45",
+        "Savings (%)": "82.22%"
+    },
+    {
+        "Branded Name": "Volini",
+        "Generic Name": "Diclofenac Gel",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "75",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Moov",
+        "Generic Name": "Pain Relief Gel",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "85",
+        "Savings (%)": "85.88%"
+    },
+    {
+        "Branded Name": "Soframycin",
+        "Generic Name": "Framycetin Cream",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "70",
+        "Savings (%)": "85.71%"
+    },
+    {
+        "Branded Name": "Betnovate",
+        "Generic Name": "Betamethasone Cream",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "55",
+        "Savings (%)": "85.45%"
+    },
+    {
+        "Branded Name": "Candid B",
+        "Generic Name": "Clotrimazole+Beclomethasone",
+        "Jan Aushadhi Price": "15",
+        "Branded Price": "110",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Panderm",
+        "Generic Name": "Clobetasol Cream",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "75",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "T-Bact",
+        "Generic Name": "Mupirocin Ointment",
+        "Jan Aushadhi Price": "15",
+        "Branded Price": "110",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Eumosone",
+        "Generic Name": "Mometasone Cream",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "70",
+        "Savings (%)": "85.71%"
+    },
+    {
+        "Branded Name": "Itchguard",
+        "Generic Name": "Hydrocortisone Cream",
+        "Jan Aushadhi Price": "7",
+        "Branded Price": "50",
+        "Savings (%)": "86.00%"
+    },
+    {
+        "Branded Name": "Dermikem",
+        "Generic Name": "Ketoconazole Cream",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "85",
+        "Savings (%)": "85.88%"
+    },
+    {
+        "Branded Name": "Nizoral",
+        "Generic Name": "Ketoconazole Shampoo",
+        "Jan Aushadhi Price": "18",
+        "Branded Price": "120",
+        "Savings (%)": "85.00%"
+    },
+    {
+        "Branded Name": "Sebifin",
+        "Generic Name": "Sertaconazole Cream",
+        "Jan Aushadhi Price": "15",
+        "Branded Price": "110",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Fungicide",
+        "Generic Name": "Terbinafine Cream",
+        "Jan Aushadhi Price": "14",
+        "Branded Price": "100",
+        "Savings (%)": "86.00%"
+    },
+    {
+        "Branded Name": "Lamisil",
+        "Generic Name": "Terbinafine",
+        "Jan Aushadhi Price": "20",
+        "Branded Price": "150",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Griseofulvin",
+        "Generic Name": "Griseofulvin",
+        "Jan Aushadhi Price": "25",
+        "Branded Price": "180",
+        "Savings (%)": "86.11%"
+    },
+    {
+        "Branded Name": "Flucozole",
+        "Generic Name": "Fluconazole",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "60",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Candiforce",
+        "Generic Name": "Clotrimazole",
+        "Jan Aushadhi Price": "3",
+        "Branded Price": "20",
+        "Savings (%)": "85.00%"
+    },
+    {
+        "Branded Name": "Candid",
+        "Generic Name": "Clotrimazole",
+        "Jan Aushadhi Price": "4",
+        "Branded Price": "25",
+        "Savings (%)": "84.00%"
+    },
+    {
+        "Branded Name": "Canesten",
+        "Generic Name": "Clotrimazole",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "30",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Zocon",
+        "Generic Name": "Fluconazole",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "75",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Forcan",
+        "Generic Name": "Fluconazole",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "85",
+        "Savings (%)": "85.88%"
+    },
+    {
+        "Branded Name": "Sporanox",
+        "Generic Name": "Itraconazole",
+        "Jan Aushadhi Price": "15",
+        "Branded Price": "110",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Canditral",
+        "Generic Name": "Itraconazole",
+        "Jan Aushadhi Price": "18",
+        "Branded Price": "130",
+        "Savings (%)": "86.15%"
+    },
+    {
+        "Branded Name": "Cetrizin",
+        "Generic Name": "Cetirizine",
+        "Jan Aushadhi Price": "1",
+        "Branded Price": "9",
+        "Savings (%)": "88.89%"
+    },
+    {
+        "Branded Name": "Levocet",
+        "Generic Name": "Levocetirizine",
+        "Jan Aushadhi Price": "3",
+        "Branded Price": "25",
+        "Savings (%)": "88.00%"
+    },
+    {
+        "Branded Name": "Montair",
+        "Generic Name": "Montelukast",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "40",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Teczine",
+        "Generic Name": "Levocetirizine",
+        "Jan Aushadhi Price": "4",
+        "Branded Price": "30",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Bilasure",
+        "Generic Name": "Bilastine",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "65",
+        "Savings (%)": "87.69%"
+    },
+    {
+        "Branded Name": "Rupafin",
+        "Generic Name": "Rupatadine",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "85",
+        "Savings (%)": "88.24%"
+    },
+    {
+        "Branded Name": "Avil",
+        "Generic Name": "Pheniramine",
+        "Jan Aushadhi Price": "1",
+        "Branded Price": "9",
+        "Savings (%)": "88.89%"
+    },
+    {
+        "Branded Name": "Cetzine",
+        "Generic Name": "Cetirizine",
+        "Jan Aushadhi Price": "1.5",
+        "Branded Price": "12",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Alerid",
+        "Generic Name": "Cetirizine",
+        "Jan Aushadhi Price": "2",
+        "Branded Price": "15",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Lorfast",
+        "Generic Name": "Loratadine",
+        "Jan Aushadhi Price": "3",
+        "Branded Price": "25",
+        "Savings (%)": "88.00%"
+    },
+    {
+        "Branded Name": "Deslor",
+        "Generic Name": "Desloratadine",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "30",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "T-minic",
+        "Generic Name": "Chlorpheniramine+Phenylephrine",
+        "Jan Aushadhi Price": "3",
+        "Branded Price": "22",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Sinarest",
+        "Generic Name": "Chlorpheniramine+Phenylephrine+Paracetamol",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "35",
+        "Savings (%)": "85.71%"
+    },
+    {
+        "Branded Name": "Wikoryl",
+        "Generic Name": "Chlorpheniramine+Codeine",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "45",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Benadryl",
+        "Generic Name": "Diphenhydramine",
+        "Jan Aushadhi Price": "4",
+        "Branded Price": "30",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Alex",
+        "Generic Name": "Ambroxol",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "60",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Ascoril",
+        "Generic Name": "Bromhexine+Guaifenesin",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "35",
+        "Savings (%)": "82.86%"
+    },
+    {
+        "Branded Name": "TusQ",
+        "Generic Name": "Dextromethorphan",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "40",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Grilinctus",
+        "Generic Name": "Chlorpheniramine+Codeine",
+        "Jan Aushadhi Price": "7",
+        "Branded Price": "55",
+        "Savings (%)": "87.27%"
+    },
+    {
+        "Branded Name": "Corex",
+        "Generic Name": "Chlorpheniramine+Codeine",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "65",
+        "Savings (%)": "87.69%"
+    },
+    {
+        "Branded Name": "Solvin",
+        "Generic Name": "Ambroxol+Guaifenesin+Terbutaline",
+        "Jan Aushadhi Price": "9",
+        "Branded Price": "70",
+        "Savings (%)": "87.14%"
+    },
+    {
+        "Branded Name": "Tussar",
+        "Generic Name": "Bromhexine+Ammonium Chloride",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "45",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tufedol",
+        "Generic Name": "Chlorpheniramine+Paracetamol",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "35",
+        "Savings (%)": "85.71%"
+    },
+    {
+        "Branded Name": "Chericof",
+        "Generic Name": "Codeine+Chlorpheniramine",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "65",
+        "Savings (%)": "87.69%"
+    },
+    {
+        "Branded Name": "Zedex",
+        "Generic Name": "Levodropropizine",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "95",
+        "Savings (%)": "87.37%"
+    },
+    {
+        "Branded Name": "Phensedyl",
+        "Generic Name": "Codeine+Promethazine",
+        "Jan Aushadhi Price": "25",
+        "Branded Price": "150",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Histacin",
+        "Generic Name": "Bromhexine",
+        "Jan Aushadhi Price": "7",
+        "Branded Price": "55",
+        "Savings (%)": "87.27%"
+    },
+    {
+        "Branded Name": "Koflet",
+        "Generic Name": "Honey+Herbal Extracts",
+        "Jan Aushadhi Price": "15",
+        "Branded Price": "120",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Honitus",
+        "Generic Name": "Dextromethorphan+Terbutaline",
+        "Jan Aushadhi Price": "10",
+        "Branded Price": "80",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Tixylix",
+        "Generic Name": "Pholcodine+Phenylephrine",
+        "Jan Aushadhi Price": "12",
+        "Branded Price": "95",
+        "Savings (%)": "87.37%"
+    },
+    {
+        "Branded Name": "Tusq-DX",
+        "Generic Name": "Dextromethorphan+Guaifenesin",
+        "Jan Aushadhi Price": "9",
+        "Branded Price": "70",
+        "Savings (%)": "87.14%"
+    },
+    {
+        "Branded Name": "Torex",
+        "Generic Name": "Pholcodine",
+        "Jan Aushadhi Price": "8",
+        "Branded Price": "65",
+        "Savings (%)": "87.69%"
+    },
+    {
+        "Branded Name": "Bronchodil",
+        "Generic Name": "Salbutamol",
+        "Jan Aushadhi Price": "3",
+        "Branded Price": "25",
+        "Savings (%)": "88.00%"
+    },
+    {
+        "Branded Name": "Asthalin",
+        "Generic Name": "Salbutamol",
+        "Jan Aushadhi Price": "4",
+        "Branded Price": "30",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Deriphyllin",
+        "Generic Name": "Etofylline+Theophylline",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "30",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Theo-AS",
+        "Generic Name": "Theophylline",
+        "Jan Aushadhi Price": "6",
+        "Branded Price": "45",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Duolin",
+        "Generic Name": "Levosalbutamol+Ipratropium",
+        "Jan Aushadhi Price": "15",
+        "Branded Price": "120",
+        "Savings (%)": "87.50%"
+    },
+    {
+        "Branded Name": "Foracort",
+        "Generic Name": "Formoterol+Budesonide",
+        "Jan Aushadhi Price": "50",
+        "Branded Price": "350",
+        "Savings (%)": "85.71%"
+    },
+    {
+        "Branded Name": "Budecort",
+        "Generic Name": "Budesonide",
+        "Jan Aushadhi Price": "50",
+        "Branded Price": "300",
+        "Savings (%)": "83.33%"
+    },
+    {
+        "Branded Name": "Seroflo",
+        "Generic Name": "Fluticasone+Salmeterol",
+        "Jan Aushadhi Price": "60",
+        "Branded Price": "400",
+        "Savings (%)": "85.00%"
+    },
+    {
+        "Branded Name": "Symbicort",
+        "Generic Name": "Formoterol+Budesonide",
+        "Jan Aushadhi Price": "55",
+        "Branded Price": "380",
+        "Savings (%)": "85.53%"
+    },
+    {
+        "Branded Name": "Aerocort",
+        "Generic Name": "Beclomethasone",
+        "Jan Aushadhi Price": "45",
+        "Branded Price": "320",
+        "Savings (%)": "85.94%"
+    },
+    {
+        "Branded Name": "Beclate",
+        "Generic Name": "Beclomethasone",
+        "Jan Aushadhi Price": "40",
+        "Branded Price": "300",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Flohale",
+        "Generic Name": "Fluticasone",
+        "Jan Aushadhi Price": "55",
+        "Branded Price": "390",
+        "Savings (%)": "85.90%"
+    },
+    {
+        "Branded Name": "Rotacaps",
+        "Generic Name": "Salmeterol+Fluticasone",
+        "Jan Aushadhi Price": "65",
+        "Branded Price": "450",
+        "Savings (%)": "85.56%"
+    },
+    {
+        "Branded Name": "Tiova",
+        "Generic Name": "Tiotropium",
+        "Jan Aushadhi Price": "85",
+        "Branded Price": "600",
+        "Savings (%)": "85.83%"
+    },
+    {
+        "Branded Name": "Duova",
+        "Generic Name": "Formoterol+Aclidinium",
+        "Jan Aushadhi Price": "95",
+        "Branded Price": "680",
+        "Savings (%)": "86.03%"
+    },
+    {
+        "Branded Name": "Spiriva",
+        "Generic Name": "Tiotropium",
+        "Jan Aushadhi Price": "90",
+        "Branded Price": "650",
+        "Savings (%)": "86.15%"
+    },
+    {
+        "Branded Name": "Onbrez",
+        "Generic Name": "Indacaterol",
+        "Jan Aushadhi Price": "75",
+        "Branded Price": "550",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Lantus SoloStar",
+        "Generic Name": "Insulin Glargine",
+        "Jan Aushadhi Price": "300",
+        "Branded Price": "2,200",
+        "Savings (%)": "86.36%"
+    },
+    {
+        "Branded Name": "Novorapid FlexPen",
+        "Generic Name": "Insulin Aspart",
+        "Jan Aushadhi Price": "350",
+        "Branded Price": "2,600",
+        "Savings (%)": "86.54%"
+    },
+    {
+        "Branded Name": "Humalog KwikPen",
+        "Generic Name": "Insulin Lispro",
+        "Jan Aushadhi Price": "320",
+        "Branded Price": "2,400",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Toujeo SoloStar",
+        "Generic Name": "Insulin Glargine U300",
+        "Jan Aushadhi Price": "400",
+        "Branded Price": "3,000",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Tresiba FlexTouch",
+        "Generic Name": "Insulin Degludec",
+        "Jan Aushadhi Price": "380",
+        "Branded Price": "2,850",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Levemir FlexPen",
+        "Generic Name": "Insulin Detemir",
+        "Jan Aushadhi Price": "350",
+        "Branded Price": "2,600",
+        "Savings (%)": "86.54%"
+    },
+    {
+        "Branded Name": "Ryzodeg FlexTouch",
+        "Generic Name": "Insulin Degludec/Aspart",
+        "Jan Aushadhi Price": "420",
+        "Branded Price": "3,150",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Xultophy Pen",
+        "Generic Name": "Insulin Degludec/Liraglutide",
+        "Jan Aushadhi Price": "600",
+        "Branded Price": "4,500",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Soliqua Pen",
+        "Generic Name": "Insulin Glargine/Lixisenatide",
+        "Jan Aushadhi Price": "580",
+        "Branded Price": "4,350",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Ozempic Pen",
+        "Generic Name": "Semaglutide",
+        "Jan Aushadhi Price": "550",
+        "Branded Price": "4,100",
+        "Savings (%)": "86.59%"
+    },
+    {
+        "Branded Name": "Trulicity Pen",
+        "Generic Name": "Dulaglutide",
+        "Jan Aushadhi Price": "520",
+        "Branded Price": "3,900",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Victoza Pen",
+        "Generic Name": "Liraglutide",
+        "Jan Aushadhi Price": "480",
+        "Branded Price": "3,600",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Byetta Pen",
+        "Generic Name": "Exenatide",
+        "Jan Aushadhi Price": "450",
+        "Branded Price": "3,350",
+        "Savings (%)": "86.57%"
+    },
+    {
+        "Branded Name": "Bydureon Pen",
+        "Generic Name": "Exenatide ER",
+        "Jan Aushadhi Price": "500",
+        "Branded Price": "3,750",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Velmetia",
+        "Generic Name": "Vildagliptin+Metformin",
+        "Jan Aushadhi Price": "30",
+        "Branded Price": "225",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Jalra Met",
+        "Generic Name": "Vildagliptin+Metformin",
+        "Jan Aushadhi Price": "32",
+        "Branded Price": "240",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Zita Met",
+        "Generic Name": "Sitagliptin+Metformin",
+        "Jan Aushadhi Price": "38",
+        "Branded Price": "285",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Istavel Met",
+        "Generic Name": "Sitagliptin+Metformin",
+        "Jan Aushadhi Price": "40",
+        "Branded Price": "300",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Trijardy XR",
+        "Generic Name": "Empagliflozin+Linagliptin+Metformin",
+        "Jan Aushadhi Price": "80",
+        "Branded Price": "600",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Qternmet XR",
+        "Generic Name": "Saxagliptin+Dapagliflozin+Metformin",
+        "Jan Aushadhi Price": "85",
+        "Branded Price": "640",
+        "Savings (%)": "86.72%"
+    },
+    {
+        "Branded Name": "Glycomet Trio",
+        "Generic Name": "Metformin+Glimepiride+Voglibose",
+        "Jan Aushadhi Price": "25",
+        "Branded Price": "190",
+        "Savings (%)": "86.84%"
+    },
+    {
+        "Branded Name": "Gluconorm G",
+        "Generic Name": "Gliclazide+Metformin",
+        "Jan Aushadhi Price": "20",
+        "Branded Price": "150",
+        "Savings (%)": "86.67%"
+    },
+    {
+        "Branded Name": "Metrogyl",
+        "Generic Name": "Metronidazole",
+        "Jan Aushadhi Price": "5",
+        "Branded Price": "38",
+        "Savings (%)": "86.84%"
+    }
+]
